@@ -3,7 +3,7 @@
         android:label="@string/app_name"
         android:theme="@style/Theme.OpenCVStitchPOC">
         <activity
-            android:name="com.teleboost.camera.StitchEntryActivity"
+            android:name="com.teleboost.camera.stitch.StitchEntryActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
