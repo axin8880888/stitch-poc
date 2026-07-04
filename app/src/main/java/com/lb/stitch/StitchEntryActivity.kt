@@ -2,6 +2,8 @@ package com.teleboost.camera.stitch
 
 import android.app.Activity
 import android.os.Bundle
+import android.os.Handler
+import android.os.Looper
 import android.widget.LinearLayout
 import android.widget.TextView
 import com.teleboost.camera.stitch.core.OpenCvPipeline
@@ -26,30 +28,14 @@ class StitchEntryActivity : Activity() {
     }
 
     private fun postInitialRun() {
-        window.decorView.post {
+        Handler(Looper.getMainLooper()).post {
             val frames: List<StitchFrame> = FakeFrameSource.frames()
             val result = pipeline.run(frames)
             val cropStatus = cropController.currentCropStatus(true, result.cropBounds?.toString() ?: "none")
-            PocResultStore.save(
-                PocResult(
-                    title = "接片原型结果",
-                    frameCount = frames.size,
-                    status = "ready",
-                    qualityScore = result.qualityScore,
-                    cropMode = "pure",
-                    cropStatus = cropStatus,
-                    cropBoundsSummary = result.cropBounds?.toString() ?: "none",
-                    blendEnabled = false,
-                    exposureCompensationEnabled = false,
-                    exportStatus = "idle",
-                    warnings = result.warnings,
-                    notes = listOf(
-                        "OpenCV真实接口骨架已接入",
-                        "默认关闭 blending",
-                        "默认关闭曝光补偿"
-                    )
-                )
-            )
+            window.decorView.post {
+                (findViewById<TextView>(android.R.id.content) ?: return@post).text =
+                    "光·边界启动中...\n已完成基础初始化"
+            }
         }
     }
 
