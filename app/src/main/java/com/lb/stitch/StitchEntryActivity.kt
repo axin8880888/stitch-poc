@@ -46,5 +46,8 @@ class StitchEntryActivity {
 
     fun onOpenSettings() {}
 
-    fun onExport() = exportManager.saveToFolder(PocResultStore.current() ?: return, "/storage/emulated/0/Download/篮筐整改")
+    fun onExport(): String {
+        val current = PocResultStore.current() ?: return "暂无结果可导出"
+        return exportManager.saveToFolder(current, "/storage/emulated/0/Download/篮筐整改")
+    }
 }

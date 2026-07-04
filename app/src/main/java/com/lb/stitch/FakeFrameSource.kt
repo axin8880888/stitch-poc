@@ -1,5 +1,7 @@
 package com.teleboost.camera.stitch
 
+import com.teleboost.camera.stitch.core.StitchFrame
+
 object FakeFrameSource {
     fun frames(): List<StitchFrame> = listOf(
         StitchFrame(sequenceIndex = 1, timestamp = 1L, exposureInfo = "EV0", iso = 100, awb = "lock"),
