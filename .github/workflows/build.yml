@@ -18,16 +18,22 @@ jobs:
           distribution: temurin
           java-version: '17'
 
-      - name: Set up Android SDK
-        uses: android-actions/setup-android@v3
-
-      - name: Detect Android SDK path
+      - name: Define Android SDK root
         run: |
-          SDK_DIR="$(dirname "$(dirname "$(readlink -f "$(command -v sdkmanager)")")")"
+          SDK_DIR="$HOME/android-sdk"
+          mkdir -p "$SDK_DIR"
           echo "SDK_DIR=$SDK_DIR" >> $GITHUB_ENV
           echo "ANDROID_HOME=$SDK_DIR" >> $GITHUB_ENV
           echo "ANDROID_SDK_ROOT=$SDK_DIR" >> $GITHUB_ENV
           printf 'sdk.dir=%s\n' "$SDK_DIR" > local.properties
+
+      - name: Install Android command line tools
+        run: |
+          mkdir -p "$SDK_DIR/cmdline-tools"
+          curl -fsSL -o /tmp/commandlinetools.zip https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip
+          unzip -q /tmp/commandlinetools.zip -d "$SDK_DIR/cmdline-tools"
+          mv "$SDK_DIR/cmdline-tools/cmdline-tools" "$SDK_DIR/cmdline-tools/latest"
+          echo "$SDK_DIR/cmdline-tools/latest/bin" >> $GITHUB_PATH
 
       - name: Accept licenses
         run: yes | sdkmanager --sdk_root="$SDK_DIR" --licenses
