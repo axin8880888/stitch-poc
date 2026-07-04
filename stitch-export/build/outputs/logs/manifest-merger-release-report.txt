@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /data/data/com.termux/files/home/.openclaw/workspace/apk_work/opencv_stitch_poc/stitch-export/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3804036599381778742.xml:2:13-83
+INJECTED from /data/data/com.termux/files/home/.openclaw/workspace/apk_work/opencv_stitch_poc/stitch-export/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3804036599381778742.xml:2:13-83
+	package
+		INJECTED from /data/data/com.termux/files/home/.openclaw/workspace/apk_work/opencv_stitch_poc/stitch-export/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3804036599381778742.xml
+	xmlns:android
+		ADDED from /data/data/com.termux/files/home/.openclaw/workspace/apk_work/opencv_stitch_poc/stitch-export/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3804036599381778742.xml:2:23-81
+uses-sdk
+INJECTED from /data/data/com.termux/files/home/.openclaw/workspace/apk_work/opencv_stitch_poc/stitch-export/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3804036599381778742.xml reason: use-sdk injection requested
+INJECTED from /data/data/com.termux/files/home/.openclaw/workspace/apk_work/opencv_stitch_poc/stitch-export/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3804036599381778742.xml
+INJECTED from /data/data/com.termux/files/home/.openclaw/workspace/apk_work/opencv_stitch_poc/stitch-export/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3804036599381778742.xml
+	android:targetSdkVersion
+		INJECTED from /data/data/com.termux/files/home/.openclaw/workspace/apk_work/opencv_stitch_poc/stitch-export/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3804036599381778742.xml
+	android:minSdkVersion
+		INJECTED from /data/data/com.termux/files/home/.openclaw/workspace/apk_work/opencv_stitch_poc/stitch-export/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3804036599381778742.xml

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.teleboost.camera.app-release-4:/layout_activity_stitch_preview.xml.flat",
+        "source": "com.teleboost.camera.app-main-5:/layout/activity_stitch_preview.xml"
+    },
+    {
+        "merged": "com.teleboost.camera.app-release-4:/layout_activity_stitch_entry.xml.flat",
+        "source": "com.teleboost.camera.app-main-5:/layout/activity_stitch_entry.xml"
+    }
+]

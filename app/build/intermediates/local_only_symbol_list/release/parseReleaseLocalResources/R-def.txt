@@ -1,0 +1,17 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color gray
+color pcsAccent
+color white
+id previewBody
+id previewTitle
+layout activity_stitch_entry
+layout activity_stitch_preview
+string app_name
+string stitch_back
+string stitch_crop
+string stitch_entry_title
+string stitch_export
+string stitch_preview_title
+style Theme.OpenCVStitchPOC

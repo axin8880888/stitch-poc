@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OpenCV Stitch POC</string>
+    <string name="stitch_entry_title">接片</string>
+    <string name="stitch_preview_title">拼接预览</string>
+    <string name="stitch_export">导出</string>
+    <string name="stitch_crop">裁切</string>
+    <string name="stitch_back">返回</string>
+</resources>

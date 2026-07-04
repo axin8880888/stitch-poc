@@ -1,0 +1,3 @@
+#!/data/data/com.termux/files/usr/bin/sh
+DIR="$(cd "$(dirname "$0")" && pwd)"
+exec gradle -p "$DIR" "$@"
