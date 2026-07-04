@@ -30,11 +30,11 @@ jobs:
           printf 'sdk.dir=%s\n' "$SDK_DIR" > local.properties
 
       - name: Accept licenses
-        run: yes | "$SDK_DIR/cmdline-tools/latest/bin/sdkmanager" --sdk_root="$SDK_DIR" --licenses
+        run: yes | sdkmanager --sdk_root="$SDK_DIR" --licenses
 
       - name: Install required SDK packages
         run: |
-          "$SDK_DIR/cmdline-tools/latest/bin/sdkmanager" --sdk_root="$SDK_DIR" "platforms;android-34" "build-tools;34.0.0"
+          sdkmanager --sdk_root="$SDK_DIR" "platforms;android-34" "build-tools;34.0.0"
       - name: Ensure gradlew is executable
         run: chmod +x ./gradlew
 
