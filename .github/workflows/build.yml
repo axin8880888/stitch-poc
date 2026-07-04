@@ -29,6 +29,10 @@ jobs:
           echo "ANDROID_HOME=$HOME/android-sdk" >> $GITHUB_ENV
           echo "ANDROID_SDK_ROOT=$HOME/android-sdk" >> $GITHUB_ENV
 
+
+      - name: Write local.properties
+        run: |
+          echo "sdk.dir=$HOME/android-sdk" > local.properties
       - name: Ensure gradlew is executable
         run: chmod +x ./gradlew
 
