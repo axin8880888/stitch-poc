@@ -1,15 +1,18 @@
 package com.teleboost.camera.stitch
 
+import android.app.Activity
+import android.os.Bundle
 import com.teleboost.camera.stitch.core.OpenCvPipeline
 import com.teleboost.camera.stitch.core.StitchFrame
 
-class StitchEntryActivity {
+class StitchEntryActivity : Activity() {
     private val vm = StitchSessionViewModel()
     private val pipeline = OpenCvPipeline()
     private val cropController = com.teleboost.camera.stitch.ui.CropController()
     private val exportManager = com.teleboost.camera.stitch.export.ExportManager()
 
-    fun onCreate() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
         vm.reset()
         val frames: List<StitchFrame> = FakeFrameSource.frames()
         val result = pipeline.run(frames)
