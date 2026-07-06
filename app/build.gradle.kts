@@ -28,4 +28,7 @@ dependencies {
     implementation(project(":stitch-ui"))
     implementation(project(":stitch-export"))
     implementation(project(":stitch-guard"))
+    implementation("com.google.android.material:material:1.11.0")
+    implementation("androidx.core:core-ktx:1.12.0")
+    implementation("androidx.activity:activity-ktx:1.8.2")
 }
