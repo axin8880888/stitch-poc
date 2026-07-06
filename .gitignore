@@ -4,3 +4,27 @@ build/
 **/build/
 .idea/
 *.iml
+
+# Build outputs
+build/
+.gradle/
+*.apk
+*.aab
+*.ap_
+*.dex
+bin/
+gen/
+out/
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# Local
+local.properties
+keystore.jks
+*.keystore
+
+# Gradle wrapper
+gradle/wrapper/gradle-wrapper.jar
