@@ -1,3 +1,5 @@
 package com.teleboost.camera.stitch.ui
 
-class StitchResultView
+class StitchResultView {
+    fun render(resultText: String): String = resultText
+}
