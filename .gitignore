@@ -26,5 +26,4 @@ local.properties
 keystore.jks
 *.keystore
 
-# Gradle wrapper
-gradle/wrapper/gradle-wrapper.jar
+# Gradle wrapper (jar must be tracked for CI build)
