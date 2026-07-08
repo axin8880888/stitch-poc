@@ -1,0 +1,120 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "light-boundary-stitch-arch",
+  "elements": [
+    {
+      "type": "rectangle",
+      "id": "main-camera",
+      "x": 0, "y": 0, "width": 200, "height": 80,
+      "strokeColor": "#0cf",
+      "backgroundColor": "rgba(0,204,255,0.1)",
+      "strokeWidth": 2,
+      "roundness": {"type": 3},
+      "text": "主相机界面\nCameraScreen.kt"
+    },
+    {
+      "type": "rectangle",
+      "id": "camera-vm",
+      "x": 300, "y": 0, "width": 200, "height": 80,
+      "strokeColor": "#0cf",
+      "backgroundColor": "rgba(0,204,255,0.1)",
+      "strokeWidth": 2,
+      "roundness": {"type": 3},
+      "text": "CameraViewModel\n拍照逻辑中心"
+    },
+    {
+      "type": "rectangle",
+      "id": "camera-engine",
+      "x": 600, "y": 0, "width": 200, "height": 80,
+      "strokeColor": "#0cf",
+      "backgroundColor": "rgba(0,204,255,0.1)",
+      "strokeWidth": 2,
+      "roundness": {"type": 3},
+      "text": "CameraEngine\n预览/拍照/Session"
+    },
+    {
+      "type": "rectangle",
+      "id": "stitch-screen",
+      "x": 0, "y": 200, "width": 200, "height": 80,
+      "strokeColor": "#5c5",
+      "backgroundColor": "rgba(0,255,100,0.1)",
+      "strokeWidth": 2,
+      "roundness": {"type": 3},
+      "text": "接片相机界面\nStitchCameraScreen.kt"
+    },
+    {
+      "type": "rectangle",
+      "id": "stitch-vm",
+      "x": 300, "y": 200, "width": 200, "height": 80,
+      "strokeColor": "#5c5",
+      "backgroundColor": "rgba(0,255,100,0.1)",
+      "strokeWidth": 2,
+      "roundness": {"type": 3},
+      "text": "StitchViewModel\n接片状态管理"
+    },
+    {
+      "type": "rectangle",
+      "id": "stitch-session",
+      "x": 600, "y": 200, "width": 200, "height": 80,
+      "strokeColor": "#5c5",
+      "backgroundColor": "rgba(0,255,100,0.1)",
+      "strokeWidth": 2,
+      "roundness": {"type": 3},
+      "text": "StitchSession\n帧管理/元数据"
+    },
+    {
+      "type": "rectangle",
+      "id": "stitch-overlay",
+      "x": 600, "y": 350, "width": 200, "height": 50,
+      "strokeColor": "#ff5",
+      "backgroundColor": "rgba(255,255,0,0.05)",
+      "strokeWidth": 1.5,
+      "roundness": {"type": 3},
+      "text": "StitchOverlay\n引导线绘制"
+    },
+    {
+      "type": "arrow",
+      "id": "arrow1",
+      "points": [[200,40],[300,40]],
+      "strokeColor": "#0cf",
+      "strokeWidth": 2,
+      "text": "按快门"
+    },
+    {
+      "type": "arrow",
+      "id": "arrow2",
+      "points": [[500,40],[600,40]],
+      "strokeColor": "#0cf",
+      "strokeWidth": 2,
+      "text": "captureStill()"
+    },
+    {
+      "type": "arrow",
+      "id": "arrow3",
+      "points": [[200,240],[300,240]],
+      "strokeColor": "#5c5",
+      "strokeWidth": 2,
+      "text": "captureStitchFrame()"
+    },
+    {
+      "type": "arrow",
+      "id": "arrow4",
+      "points": [[500,240],[600,240]],
+      "strokeColor": "#5c5",
+      "strokeWidth": 2,
+      "text": "addFrame()"
+    },
+    {
+      "type": "text",
+      "id": "legend-text",
+      "x": 0, "y": 450,
+      "strokeColor": "#aaa",
+      "text": "图例：蓝色=现有模块  绿色=新增模块  黄色=新增组件"
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#0f0f1a",
+    "currentItemStrokeColor": "#0cf"
+  }
+}

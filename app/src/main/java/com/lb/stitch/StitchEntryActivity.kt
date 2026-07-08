@@ -13,13 +13,16 @@ import android.widget.LinearLayout
 import android.widget.TextView
 import com.teleboost.camera.stitch.PocResult
 import com.teleboost.camera.stitch.PocResultStore
+import com.teleboost.camera.stitch.ui.StitchCameraScreen
 import com.teleboost.camera.stitch.ui.StitchPreviewActivity
+import com.teleboost.camera.stitch.core.StitchCameraBridge
 
 class StitchEntryActivity : Activity() {
     private val vm = StitchSessionViewModel()
     private val previewActivity = StitchPreviewActivity()
     private lateinit var statusText: TextView
     private lateinit var stitchButton: Button
+    private lateinit var stitchModeButton: Button
     private lateinit var previewImage: ImageView
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -30,8 +33,12 @@ class StitchEntryActivity : Activity() {
             textSize = 16f
         }
         stitchButton = Button(this).apply {
-            text = "开始接片"
+            text = "开始接片 (伪帧演示)"
             setOnClickListener { onStartStitch() }
+        }
+        stitchModeButton = Button(this).apply {
+            text = "进入接片模式 (CameraEngine 对接)"
+            setOnClickListener { onEnterStitchMode() }
         }
         previewImage = ImageView(this).apply {
             visibility = ViewGroup.GONE
@@ -44,6 +51,7 @@ class StitchEntryActivity : Activity() {
                 setPadding(16, 16, 16, 16)
                 addView(statusText)
                 addView(stitchButton)
+                addView(stitchModeButton)
                 addView(previewImage, LinearLayout.LayoutParams(
                     LinearLayout.LayoutParams.MATCH_PARENT,
                     LinearLayout.LayoutParams.WRAP_CONTENT
@@ -143,6 +151,19 @@ class StitchEntryActivity : Activity() {
         canvas.drawText("stitch-poc / 3 frames", 16f, h - 16f, paint)
 
         return bmp
+    }
+
+    private fun onEnterStitchMode() {
+        // P0: 进入接片模式。主工程对接时注入真实 StitchCameraBridge。
+        // 当前 POC 中使用空实现占位，后续由 CameraEngine 实现。
+        val placeholderBridge = object : StitchCameraBridge {
+            override fun captureStill(callback: (ByteArray) -> Unit) {}
+            override val isProcessing: Boolean get() = false
+            override val currentLensInfo: String get() = "35mm"
+            override fun onStitchModeEnter() {}
+            override fun onStitchModeExit() {}
+        }
+        MainActivityBridge.openStitchFlow(this, placeholderBridge)
     }
 
     fun onOpenSettings() {}
