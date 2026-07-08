@@ -1,0 +1,4 @@
+手机端代码已通过 git push 推送到仓库。你在 MacBook Air 上：
+1. git pull
+2. 看最近的 commit
+3. 跑 ./gradlew assembleDebug
