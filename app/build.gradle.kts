@@ -28,6 +28,6 @@ dependencies {
     implementation(project(":stitch-ui"))
     implementation(project(":stitch-export"))
     implementation(project(":stitch-guard"))
-    implementation("androidx.appcompat:appcompat:1.7.0")
-    implementation("com.google.android.material:material:1.12.0")
+    // 注意：不要引入 appcompat 或 material，否则会与原始 APK 的 Compose 版本冲突
+    // 所有 stitch Activity 直接继承 android.app.Activity
 }
