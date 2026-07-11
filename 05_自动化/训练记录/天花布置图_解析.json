@@ -1,0 +1,660 @@
+{
+  "meta": {
+    "filename": "天花布置图.dxf",
+    "filepath": "/storage/emulated/0/Download/篮筐整改/CAD_Master/04_实战案例/天花图/天花布置图.dxf",
+    "size": 2732,
+    "lines": 676,
+    "version": "",
+    "codepage": "",
+    "units": ""
+  },
+  "layers": {
+    "A-CEIL": {
+      "name": "A-CEIL",
+      "color": 7,
+      "lineweight": 13,
+      "linetype": "CONTINUOUS",
+      "plot": 1,
+      "frozen": false,
+      "locked": false
+    },
+    "A-CEIL-D": {
+      "name": "A-CEIL-D",
+      "color": 2,
+      "lineweight": 9,
+      "linetype": "DASHED",
+      "plot": 1,
+      "frozen": false,
+      "locked": false
+    },
+    "A-LITE": {
+      "name": "A-LITE",
+      "color": 6,
+      "lineweight": 13,
+      "linetype": "CONTINUOUS",
+      "plot": 1,
+      "frozen": false,
+      "locked": false
+    },
+    "A-AC": {
+      "name": "A-AC",
+      "color": 4,
+      "lineweight": 13,
+      "linetype": "CONTINUOUS",
+      "plot": 1,
+      "frozen": false,
+      "locked": false
+    },
+    "A-HATC": {
+      "name": "A-HATC",
+      "color": 8,
+      "lineweight": 9,
+      "linetype": "CONTINUOUS",
+      "plot": 1,
+      "frozen": false,
+      "locked": false
+    },
+    "A-DIM": {
+      "name": "A-DIM",
+      "color": 3,
+      "lineweight": 13,
+      "linetype": "CONTINUOUS",
+      "plot": 1,
+      "frozen": false,
+      "locked": false
+    },
+    "A-TEXT": {
+      "name": "A-TEXT",
+      "color": 7,
+      "lineweight": 13,
+      "linetype": "CONTINUOUS",
+      "plot": 1,
+      "frozen": false,
+      "locked": false
+    }
+  },
+  "blocks": {},
+  "entities": [
+    {
+      "type": "LINE",
+      "layer": "A-CEIL",
+      "color": 256,
+      "code_8": "A-CEIL",
+      "code_10": "500",
+      "code_20": "300",
+      "code_11": "7500",
+      "code_21": "300"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-CEIL",
+      "color": 256,
+      "code_8": "A-CEIL",
+      "code_10": "7500",
+      "code_20": "300",
+      "code_11": "7500",
+      "code_21": "4700"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-CEIL",
+      "color": 256,
+      "code_8": "A-CEIL",
+      "code_10": "7500",
+      "code_20": "4700",
+      "code_11": "500",
+      "code_21": "4700"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-CEIL",
+      "color": 256,
+      "code_8": "A-CEIL",
+      "code_10": "500",
+      "code_20": "4700",
+      "code_11": "500",
+      "code_21": "300"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-CEIL-D",
+      "color": 256,
+      "code_8": "A-CEIL-D",
+      "code_10": "600",
+      "code_20": "400",
+      "code_11": "7400",
+      "code_21": "400"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-CEIL-D",
+      "color": 256,
+      "code_8": "A-CEIL-D",
+      "code_10": "7400",
+      "code_20": "400",
+      "code_11": "7400",
+      "code_21": "4600"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-CEIL-D",
+      "color": 256,
+      "code_8": "A-CEIL-D",
+      "code_10": "7400",
+      "code_20": "4600",
+      "code_11": "600",
+      "code_21": "4600"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-CEIL-D",
+      "color": 256,
+      "code_8": "A-CEIL-D",
+      "code_10": "600",
+      "code_20": "4600",
+      "code_11": "600",
+      "code_21": "400"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-CEIL",
+      "color": 256,
+      "code_8": "A-CEIL",
+      "code_10": "4500",
+      "code_20": "5000",
+      "code_11": "6500",
+      "code_21": "5000"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-CEIL",
+      "color": 256,
+      "code_8": "A-CEIL",
+      "code_10": "6500",
+      "code_20": "5000",
+      "code_11": "6500",
+      "code_21": "8500"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-CEIL",
+      "color": 256,
+      "code_8": "A-CEIL",
+      "code_10": "6500",
+      "code_20": "8500",
+      "code_11": "4500",
+      "code_21": "8500"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-CEIL",
+      "color": 256,
+      "code_8": "A-CEIL",
+      "code_10": "4500",
+      "code_20": "8500",
+      "code_11": "4500",
+      "code_21": "5000"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-CEIL",
+      "color": 256,
+      "code_8": "A-CEIL",
+      "code_10": "3000",
+      "code_20": "5000",
+      "code_11": "3000",
+      "code_21": "8500"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-CEIL",
+      "color": 256,
+      "code_8": "A-CEIL",
+      "code_10": "3000",
+      "code_20": "8500",
+      "code_11": "4500",
+      "code_21": "8500"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-CEIL",
+      "color": 256,
+      "code_8": "A-CEIL",
+      "code_10": "5000",
+      "code_20": "0",
+      "code_11": "8000",
+      "code_21": "0"
+    },
+    {
+      "type": "11",
+      "layer": "0",
+      "color": 256,
+      "code_8000": "21"
+    },
+    {
+      "type": "0",
+      "layer": "0",
+      "color": 256,
+      "code_8000": "20"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-CEIL",
+      "color": 256,
+      "code_8": "A-CEIL",
+      "code_10": "8000",
+      "code_20": "0",
+      "code_11": "8000",
+      "code_21": "2000"
+    },
+    {
+      "type": "11",
+      "layer": "0",
+      "color": 256,
+      "code_8000": "20",
+      "code_2000": "0",
+      "code_5000": "20",
+      "code_4000": "40",
+      "code_2500": "20",
+      "code_200": "0",
+      "code_100": "0",
+      "code_150": "0",
+      "code_75": "0",
+      "code_700": "20",
+      "code_50": "0",
+      "code_7300": "20",
+      "code_4700": "40",
+      "code_3750": "20",
+      "code_6700": "40",
+      "code_120": "0",
+      "code_6500": "40",
+      "code_1000": "40",
+      "code_5500": "20",
+      "code_7000": "40",
+      "code_80": "0",
+      "code_3400": "20",
+      "code_4800": "0",
+      "code_4600": "21",
+      "code_4750": "0",
+      "code_300": "20",
+      "code_5300": "0",
+      "code_250": "21",
+      "code_3500": "20",
+      "code_3": "1",
+      "code_3800": "40",
+      "code_1400": "40",
+      "code_7200": "40",
+      "code_6000": "20",
+      "code_800": "40",
+      "code_3200": "20",
+      "code_6800": "40",
+      "code_5700": "40",
+      "code_5200": "40",
+      "code_1200": "40"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-CEIL",
+      "color": 256,
+      "code_8": "A-CEIL",
+      "code_10": "8000",
+      "code_20": "2000",
+      "code_11": "5000",
+      "code_21": "2000"
+    },
+    {
+      "type": "CIRCLE",
+      "layer": "A-LITE",
+      "color": 256,
+      "code_8": "A-LITE",
+      "code_10": "4000",
+      "code_20": "2500",
+      "code_40": "200"
+    },
+    {
+      "type": "CIRCLE",
+      "layer": "A-LITE",
+      "color": 256,
+      "code_8": "A-LITE",
+      "code_10": "4000",
+      "code_20": "2500",
+      "code_40": "100"
+    },
+    {
+      "type": "CIRCLE",
+      "layer": "A-LITE",
+      "color": 256,
+      "code_8": "A-LITE",
+      "code_10": "4000",
+      "code_20": "4000",
+      "code_40": "150"
+    },
+    {
+      "type": "CIRCLE",
+      "layer": "A-LITE",
+      "color": 256,
+      "code_8": "A-LITE",
+      "code_10": "4000",
+      "code_20": "4000",
+      "code_40": "75"
+    },
+    {
+      "type": "CIRCLE",
+      "layer": "A-LITE",
+      "color": 256,
+      "code_8": "A-LITE",
+      "code_10": "700",
+      "code_20": "700",
+      "code_40": "50"
+    },
+    {
+      "type": "CIRCLE",
+      "layer": "A-LITE",
+      "color": 256,
+      "code_8": "A-LITE",
+      "code_10": "7300",
+      "code_20": "700",
+      "code_40": "50"
+    },
+    {
+      "type": "CIRCLE",
+      "layer": "A-LITE",
+      "color": 256,
+      "code_8": "A-LITE",
+      "code_10": "7300",
+      "code_20": "4700",
+      "code_40": "50"
+    },
+    {
+      "type": "CIRCLE",
+      "layer": "A-LITE",
+      "color": 256,
+      "code_8": "A-LITE",
+      "code_10": "700",
+      "code_20": "4700",
+      "code_40": "50"
+    },
+    {
+      "type": "CIRCLE",
+      "layer": "A-LITE",
+      "color": 256,
+      "code_8": "A-LITE",
+      "code_10": "3750",
+      "code_20": "6700",
+      "code_40": "120"
+    },
+    {
+      "type": "CIRCLE",
+      "layer": "A-LITE",
+      "color": 256,
+      "code_8": "A-LITE",
+      "code_10": "6500",
+      "code_20": "1000",
+      "code_40": "100"
+    },
+    {
+      "type": "CIRCLE",
+      "layer": "A-LITE",
+      "color": 256,
+      "code_8": "A-LITE",
+      "code_10": "5500",
+      "code_20": "7000",
+      "code_40": "150"
+    },
+    {
+      "type": "CIRCLE",
+      "layer": "A-LITE",
+      "color": 256,
+      "code_8": "A-LITE",
+      "code_10": "5500",
+      "code_20": "7000",
+      "code_40": "80"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-AC",
+      "color": 256,
+      "code_8": "A-AC",
+      "code_10": "3400",
+      "code_20": "4800",
+      "code_11": "4600",
+      "code_21": "4800"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-AC",
+      "color": 256,
+      "code_8": "A-AC",
+      "code_10": "3400",
+      "code_20": "4800",
+      "code_11": "4600",
+      "code_21": "4800"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-AC",
+      "color": 256,
+      "code_8": "A-AC",
+      "code_10": "3400",
+      "code_20": "4800",
+      "code_11": "4600",
+      "code_21": "4800"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-AC",
+      "color": 256,
+      "code_8": "A-AC",
+      "code_10": "3400",
+      "code_20": "4750",
+      "code_11": "4600",
+      "code_21": "4750"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-DIM",
+      "color": 256,
+      "code_8": "A-DIM",
+      "code_10": "300",
+      "code_20": "5000",
+      "code_11": "300",
+      "code_21": "5300"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-DIM",
+      "color": 256,
+      "code_8": "A-DIM",
+      "code_10": "300",
+      "code_20": "5300",
+      "code_11": "250",
+      "code_21": "5300"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "3500",
+      "code_20": "2500",
+      "code_40": "3",
+      "code_1": "LED主灯 CL=2850"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "3500",
+      "code_20": "3800",
+      "code_40": "3",
+      "code_1": "餐厅吊灯 CL=2500"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "3500",
+      "code_20": "1400",
+      "code_40": "3",
+      "code_1": "跌级吊顶 CL=2700"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "5000",
+      "code_20": "7200",
+      "code_40": "3",
+      "code_1": "浴霸"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "6000",
+      "code_20": "800",
+      "code_40": "3",
+      "code_1": "吸顶灯"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "3200",
+      "code_20": "6800",
+      "code_40": "3",
+      "code_1": "吸顶灯 CL=2850"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "2500",
+      "code_20": "5700",
+      "code_40": "3",
+      "code_1": "阳角线"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "3500",
+      "code_20": "5200",
+      "code_40": "3",
+      "code_1": "石膏板平顶 CL=2850"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "5000",
+      "code_20": "6500",
+      "code_40": "3",
+      "code_1": "防水石膏板 CL=2800"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "6000",
+      "code_20": "1200",
+      "code_40": "3",
+      "code_1": "铝扣板吊顶 CL=2600"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-CEIL",
+      "color": 256,
+      "code_8": "A-CEIL",
+      "code_10": "0",
+      "code_20": "0",
+      "code_11": "8000",
+      "code_21": "0"
+    },
+    {
+      "type": "20",
+      "layer": "0",
+      "color": 256
+    },
+    {
+      "type": "11",
+      "layer": "0",
+      "color": 256,
+      "code_8000": "21"
+    },
+    {
+      "type": "0",
+      "layer": "0",
+      "color": 256,
+      "code_8000": "20"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-CEIL",
+      "color": 256,
+      "code_8": "A-CEIL",
+      "code_10": "8000",
+      "code_20": "0",
+      "code_11": "8000",
+      "code_21": "8500"
+    },
+    {
+      "type": "11",
+      "layer": "0",
+      "color": 256,
+      "code_8000": "20",
+      "code_8500": "11"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-CEIL",
+      "color": 256,
+      "code_8": "A-CEIL",
+      "code_10": "8000",
+      "code_20": "8500",
+      "code_11": "0",
+      "code_21": "8500"
+    },
+    {
+      "type": "21",
+      "layer": "0",
+      "color": 256,
+      "code_8500": "0"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-CEIL",
+      "color": 256,
+      "code_8": "A-CEIL",
+      "code_10": "0",
+      "code_20": "8500",
+      "code_11": "0",
+      "code_21": "0"
+    },
+    {
+      "type": "20",
+      "layer": "0",
+      "color": 256,
+      "code_8500": "11"
+    },
+    {
+      "type": "21",
+      "layer": "0",
+      "color": 256
+    },
+    {
+      "type": "0",
+      "layer": "0",
+      "color": 256
+    }
+  ]
+}

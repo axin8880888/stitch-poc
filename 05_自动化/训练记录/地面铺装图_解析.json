@@ -1,0 +1,474 @@
+{
+  "meta": {
+    "filename": "地面铺装图.dxf",
+    "filepath": "/storage/emulated/0/Download/篮筐整改/CAD_Master/04_实战案例/地面铺装图/地面铺装图.dxf",
+    "size": 1899,
+    "lines": 448,
+    "version": "",
+    "codepage": "",
+    "units": ""
+  },
+  "layers": {
+    "A-FLOR": {
+      "name": "A-FLOR",
+      "color": 7,
+      "lineweight": 13,
+      "linetype": "CONTINUOUS",
+      "plot": 1,
+      "frozen": false,
+      "locked": false
+    },
+    "A-HATC": {
+      "name": "A-HATC",
+      "color": 8,
+      "lineweight": 9,
+      "linetype": "CONTINUOUS",
+      "plot": 1,
+      "frozen": false,
+      "locked": false
+    },
+    "A-DIM": {
+      "name": "A-DIM",
+      "color": 3,
+      "lineweight": 13,
+      "linetype": "CONTINUOUS",
+      "plot": 1,
+      "frozen": false,
+      "locked": false
+    },
+    "A-TEXT": {
+      "name": "A-TEXT",
+      "color": 7,
+      "lineweight": 13,
+      "linetype": "CONTINUOUS",
+      "plot": 1,
+      "frozen": false,
+      "locked": false
+    },
+    "A-AREA": {
+      "name": "A-AREA",
+      "color": 6,
+      "lineweight": 13,
+      "linetype": "CONTINUOUS",
+      "plot": 1,
+      "frozen": false,
+      "locked": false
+    }
+  },
+  "blocks": {},
+  "entities": [
+    {
+      "type": "LINE",
+      "layer": "A-FLOR",
+      "color": 256,
+      "code_8": "A-FLOR",
+      "code_10": "0",
+      "code_20": "0",
+      "code_11": "8000",
+      "code_21": "0"
+    },
+    {
+      "type": "20",
+      "layer": "0",
+      "color": 256
+    },
+    {
+      "type": "11",
+      "layer": "0",
+      "color": 256,
+      "code_8000": "21"
+    },
+    {
+      "type": "0",
+      "layer": "0",
+      "color": 256,
+      "code_8000": "20"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-FLOR",
+      "color": 256,
+      "code_8": "A-FLOR",
+      "code_10": "8000",
+      "code_20": "0",
+      "code_11": "8000",
+      "code_21": "8500"
+    },
+    {
+      "type": "11",
+      "layer": "0",
+      "color": 256,
+      "code_8000": "20",
+      "code_8500": "11"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-FLOR",
+      "color": 256,
+      "code_8": "A-FLOR",
+      "code_10": "8000",
+      "code_20": "8500",
+      "code_11": "0",
+      "code_21": "8500"
+    },
+    {
+      "type": "21",
+      "layer": "0",
+      "color": 256,
+      "code_8500": "0"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-FLOR",
+      "color": 256,
+      "code_8": "A-FLOR",
+      "code_10": "0",
+      "code_20": "8500",
+      "code_11": "0",
+      "code_21": "0"
+    },
+    {
+      "type": "20",
+      "layer": "0",
+      "color": 256,
+      "code_8500": "11"
+    },
+    {
+      "type": "21",
+      "layer": "0",
+      "color": 256
+    },
+    {
+      "type": "0",
+      "layer": "0",
+      "color": 256
+    },
+    {
+      "type": "LINE",
+      "layer": "A-FLOR",
+      "color": 256,
+      "code_8": "A-FLOR",
+      "code_10": "0",
+      "code_20": "5000",
+      "code_11": "8000",
+      "code_21": "5000"
+    },
+    {
+      "type": "20",
+      "layer": "0",
+      "color": 256,
+      "code_5000": "20",
+      "code_8000": "21",
+      "code_3000": "21",
+      "code_8500": "0",
+      "code_4500": "21"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-FLOR",
+      "color": 256,
+      "code_8": "A-FLOR",
+      "code_10": "3000",
+      "code_20": "5000",
+      "code_11": "3000",
+      "code_21": "8500"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-FLOR",
+      "color": 256,
+      "code_8": "A-FLOR",
+      "code_10": "4500",
+      "code_20": "5000",
+      "code_11": "4500",
+      "code_21": "8500"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-FLOR",
+      "color": 256,
+      "code_8": "A-FLOR",
+      "code_10": "5000",
+      "code_20": "0",
+      "code_11": "5000",
+      "code_21": "2000"
+    },
+    {
+      "type": "11",
+      "layer": "0",
+      "color": 256,
+      "code_5000": "21",
+      "code_2000": "0",
+      "code_3400": "20",
+      "code_2600": "40",
+      "code_3": "1",
+      "code_2450": "40",
+      "code_5900": "20",
+      "code_1100": "40",
+      "code_950": "40",
+      "code_3150": "20",
+      "code_6850": "40",
+      "code_6700": "40",
+      "code_4900": "20",
+      "code_900": "20"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "3400",
+      "code_20": "2600",
+      "code_40": "3",
+      "code_1": "客厅餐厅: 40.0m²"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "3400",
+      "code_20": "2450",
+      "code_40": "2.5",
+      "code_1": "800×800地砖"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "5900",
+      "code_20": "1100",
+      "code_40": "3",
+      "code_1": "厨房: 6.0m²"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "5900",
+      "code_20": "950",
+      "code_40": "2.5",
+      "code_1": "600×600防滑砖"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "3150",
+      "code_20": "6850",
+      "code_40": "3",
+      "code_1": "过道: 5.2m²"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "3150",
+      "code_20": "6700",
+      "code_40": "2.5",
+      "code_1": "800×800地砖"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "4900",
+      "code_20": "6850",
+      "code_40": "3",
+      "code_1": "卫生间: 7.0m²"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "4900",
+      "code_20": "6700",
+      "code_40": "2.5",
+      "code_1": "300×300防滑砖"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "3150",
+      "code_20": "6850",
+      "code_40": "3",
+      "code_1": "主卧: 5.2m²"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "3150",
+      "code_20": "6700",
+      "code_40": "2.5",
+      "code_1": "450×900实木地板"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "900",
+      "code_20": "6850",
+      "code_40": "3",
+      "code_1": "储物: 10.5m²"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "900",
+      "code_20": "6700",
+      "code_40": "2.5",
+      "code_1": "800×800地砖"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "0",
+      "code_20": "0",
+      "code_40": "3",
+      "code_1": "800×800地砖"
+    },
+    {
+      "type": "20",
+      "layer": "0",
+      "color": 256
+    },
+    {
+      "type": "40",
+      "layer": "0",
+      "color": 256,
+      "code_3": "1"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "0",
+      "code_20": "-200",
+      "code_40": "3",
+      "code_1": "通铺 全屋对缝"
+    },
+    {
+      "type": "20",
+      "layer": "0",
+      "color": 256,
+      "code_-200": "40",
+      "code_3": "1",
+      "code_5000": "20",
+      "code_800": "40",
+      "code_600": "40"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "5000",
+      "code_20": "800",
+      "code_40": "3",
+      "code_1": "厨房"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "5000",
+      "code_20": "600",
+      "code_40": "3",
+      "code_1": "600×600防滑砖"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "0",
+      "code_20": "6500",
+      "code_40": "3",
+      "code_1": "过道"
+    },
+    {
+      "type": "20",
+      "layer": "0",
+      "color": 256,
+      "code_6500": "40",
+      "code_3": "1"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "0",
+      "code_20": "6300",
+      "code_40": "3",
+      "code_1": "800×800地砖"
+    },
+    {
+      "type": "20",
+      "layer": "0",
+      "color": 256,
+      "code_6300": "40",
+      "code_3": "1",
+      "code_4500": "20",
+      "code_6500": "40",
+      "code_3000": "20"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "4500",
+      "code_20": "6500",
+      "code_40": "3",
+      "code_1": "卫生间"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "4500",
+      "code_20": "6300",
+      "code_40": "3",
+      "code_1": "300×300防滑砖"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "3000",
+      "code_20": "6500",
+      "code_40": "3",
+      "code_1": "主卧"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "3000",
+      "code_20": "6300",
+      "code_40": "3",
+      "code_1": "450×900实木地板"
+    }
+  ]
+}

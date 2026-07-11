@@ -1,0 +1,499 @@
+{
+  "meta": {
+    "filename": "拆砌墙图.dxf",
+    "filepath": "/storage/emulated/0/Download/篮筐整改/CAD_Master/04_实战案例/住宅改造/拆砌墙图.dxf",
+    "size": 1868,
+    "lines": 472,
+    "version": "",
+    "codepage": "",
+    "units": ""
+  },
+  "layers": {
+    "A-EXST": {
+      "name": "A-EXST",
+      "color": 2,
+      "lineweight": 13,
+      "linetype": "HIDDEN",
+      "plot": 1,
+      "frozen": false,
+      "locked": false
+    },
+    "A-DEMO": {
+      "name": "A-DEMO",
+      "color": 1,
+      "lineweight": 13,
+      "linetype": "DASHED",
+      "plot": 1,
+      "frozen": false,
+      "locked": false
+    },
+    "A-NEWW": {
+      "name": "A-NEWW",
+      "color": 4,
+      "lineweight": 18,
+      "linetype": "CONTINUOUS",
+      "plot": 1,
+      "frozen": false,
+      "locked": false
+    },
+    "A-DOOR": {
+      "name": "A-DOOR",
+      "color": 4,
+      "lineweight": 18,
+      "linetype": "CONTINUOUS",
+      "plot": 1,
+      "frozen": false,
+      "locked": false
+    },
+    "A-WINDW": {
+      "name": "A-WINDW",
+      "color": 5,
+      "lineweight": 13,
+      "linetype": "CONTINUOUS",
+      "plot": 1,
+      "frozen": false,
+      "locked": false
+    },
+    "A-DIM": {
+      "name": "A-DIM",
+      "color": 3,
+      "lineweight": 13,
+      "linetype": "CONTINUOUS",
+      "plot": 1,
+      "frozen": false,
+      "locked": false
+    },
+    "A-TEXT": {
+      "name": "A-TEXT",
+      "color": 7,
+      "lineweight": 13,
+      "linetype": "CONTINUOUS",
+      "plot": 1,
+      "frozen": false,
+      "locked": false
+    },
+    "A-FURN": {
+      "name": "A-FURN",
+      "color": 6,
+      "lineweight": 13,
+      "linetype": "CONTINUOUS",
+      "plot": 1,
+      "frozen": false,
+      "locked": false
+    }
+  },
+  "blocks": {},
+  "entities": [
+    {
+      "type": "LINE",
+      "layer": "A-EXST",
+      "color": 256,
+      "code_8": "A-EXST",
+      "code_10": "0",
+      "code_20": "0",
+      "code_11": "8000",
+      "code_21": "0"
+    },
+    {
+      "type": "20",
+      "layer": "0",
+      "color": 256
+    },
+    {
+      "type": "11",
+      "layer": "0",
+      "color": 256,
+      "code_8000": "21"
+    },
+    {
+      "type": "0",
+      "layer": "0",
+      "color": 256,
+      "code_8000": "20"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-EXST",
+      "color": 256,
+      "code_8": "A-EXST",
+      "code_10": "8000",
+      "code_20": "0",
+      "code_11": "8000",
+      "code_21": "8500"
+    },
+    {
+      "type": "11",
+      "layer": "0",
+      "color": 256,
+      "code_8000": "20",
+      "code_8500": "11"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-EXST",
+      "color": 256,
+      "code_8": "A-EXST",
+      "code_10": "8000",
+      "code_20": "8500",
+      "code_11": "0",
+      "code_21": "8500"
+    },
+    {
+      "type": "21",
+      "layer": "0",
+      "color": 256,
+      "code_8500": "0"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-EXST",
+      "color": 256,
+      "code_8": "A-EXST",
+      "code_10": "0",
+      "code_20": "8500",
+      "code_11": "0",
+      "code_21": "0"
+    },
+    {
+      "type": "20",
+      "layer": "0",
+      "color": 256,
+      "code_8500": "11"
+    },
+    {
+      "type": "21",
+      "layer": "0",
+      "color": 256
+    },
+    {
+      "type": "0",
+      "layer": "0",
+      "color": 256
+    },
+    {
+      "type": "LINE",
+      "layer": "A-EXST",
+      "color": 256,
+      "code_8": "A-EXST",
+      "code_10": "0",
+      "code_20": "5000",
+      "code_11": "900",
+      "code_21": "5000"
+    },
+    {
+      "type": "20",
+      "layer": "0",
+      "color": 256,
+      "code_5000": "11",
+      "code_900": "21",
+      "code_1100": "20",
+      "code_3000": "21",
+      "code_8500": "0",
+      "code_6500": "21"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-EXST",
+      "color": 256,
+      "code_8": "A-EXST",
+      "code_10": "1100",
+      "code_20": "5000",
+      "code_11": "3000",
+      "code_21": "5000"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-EXST",
+      "color": 256,
+      "code_8": "A-EXST",
+      "code_10": "3000",
+      "code_20": "5000",
+      "code_11": "3000",
+      "code_21": "8500"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-EXST",
+      "color": 256,
+      "code_8": "A-EXST",
+      "code_10": "6500",
+      "code_20": "5000",
+      "code_11": "6500",
+      "code_21": "8500"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-EXST",
+      "color": 256,
+      "code_8": "A-EXST",
+      "code_10": "0",
+      "code_20": "0",
+      "code_11": "8000",
+      "code_21": "0"
+    },
+    {
+      "type": "20",
+      "layer": "0",
+      "color": 256
+    },
+    {
+      "type": "11",
+      "layer": "0",
+      "color": 256,
+      "code_8000": "21"
+    },
+    {
+      "type": "0",
+      "layer": "0",
+      "color": 256,
+      "code_3000": "21",
+      "code_5000": "0",
+      "code_8500": "0",
+      "code_2000": "0",
+      "code_8000": "21",
+      "code_4500": "11",
+      "code_7000": "0",
+      "code_900": "20",
+      "code_1100": "21",
+      "code_4700": "0",
+      "code_5600": "20",
+      "code_5800": "21",
+      "code_500": "20"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-DEMO",
+      "color": 256,
+      "code_8": "A-DEMO",
+      "code_10": "3000",
+      "code_20": "5000",
+      "code_11": "3000",
+      "code_21": "8500"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-DEMO",
+      "color": 256,
+      "code_8": "A-DEMO",
+      "code_10": "5000",
+      "code_20": "2000",
+      "code_11": "5000",
+      "code_21": "5000"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-DEMO",
+      "color": 256,
+      "code_8": "A-DEMO",
+      "code_10": "5000",
+      "code_20": "2000",
+      "code_11": "8000",
+      "code_21": "2000"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-DEMO",
+      "color": 256,
+      "code_8": "A-DEMO",
+      "code_10": "4500",
+      "code_20": "5000",
+      "code_11": "4500",
+      "code_21": "7000"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-NEWW",
+      "color": 256,
+      "code_8": "A-NEWW",
+      "code_10": "3000",
+      "code_20": "7000",
+      "code_11": "4500",
+      "code_21": "7000"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-NEWW",
+      "color": 256,
+      "code_8": "A-NEWW",
+      "code_10": "4500",
+      "code_20": "7000",
+      "code_11": "4500",
+      "code_21": "8500"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-NEWW",
+      "color": 256,
+      "code_8": "A-NEWW",
+      "code_10": "3000",
+      "code_20": "5000",
+      "code_11": "3000",
+      "code_21": "7000"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-DOOR",
+      "color": 256,
+      "code_8": "A-DOOR",
+      "code_10": "900",
+      "code_20": "5000",
+      "code_11": "1100",
+      "code_21": "5000"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-DOOR",
+      "color": 256,
+      "code_8": "A-DOOR",
+      "code_10": "3000",
+      "code_20": "4500",
+      "code_11": "3000",
+      "code_21": "4700"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-DOOR",
+      "color": 256,
+      "code_8": "A-DOOR",
+      "code_10": "5600",
+      "code_20": "5000",
+      "code_11": "5800",
+      "code_21": "5000"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-WINDW",
+      "color": 256,
+      "code_8": "A-WINDW",
+      "code_10": "500",
+      "code_20": "0",
+      "code_11": "2500",
+      "code_21": "0"
+    },
+    {
+      "type": "11",
+      "layer": "0",
+      "color": 256,
+      "code_2500": "21"
+    },
+    {
+      "type": "0",
+      "layer": "0",
+      "color": 256
+    },
+    {
+      "type": "LINE",
+      "layer": "A-DIM",
+      "color": 256,
+      "code_8": "A-DIM",
+      "code_10": "0",
+      "code_20": "-500",
+      "code_11": "8000",
+      "code_21": "-500"
+    },
+    {
+      "type": "20",
+      "layer": "0",
+      "color": 256,
+      "code_-500": "20",
+      "code_8000": "21"
+    },
+    {
+      "type": "LINE",
+      "layer": "A-DIM",
+      "color": 256,
+      "code_8": "A-DIM",
+      "code_10": "-500",
+      "code_20": "0",
+      "code_11": "-500",
+      "code_21": "8500"
+    },
+    {
+      "type": "11",
+      "layer": "0",
+      "color": 256,
+      "code_-500": "21",
+      "code_8500": "0",
+      "code_3500": "40",
+      "code_6700": "40",
+      "code_6400": "40",
+      "code_5500": "20",
+      "code_3200": "40",
+      "code_3700": "20",
+      "code_5800": "40",
+      "code_5600": "40",
+      "code_4500": "20",
+      "code_6200": "40"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "3500",
+      "code_20": "6700",
+      "code_40": "3.5",
+      "code_1": "拆除"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "3500",
+      "code_20": "6400",
+      "code_40": "3.5",
+      "code_1": "打通→主卧"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "5500",
+      "code_20": "3500",
+      "code_40": "3.5",
+      "code_1": "拆除"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "5500",
+      "code_20": "3200",
+      "code_40": "3.5",
+      "code_1": "→开放式厨房"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "3700",
+      "code_20": "5800",
+      "code_40": "3.5",
+      "code_1": "新建衣帽间"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "3700",
+      "code_20": "5600",
+      "code_40": "3.5",
+      "code_1": "隔断"
+    },
+    {
+      "type": "TEXT",
+      "layer": "A-TEXT",
+      "color": 256,
+      "code_8": "A-TEXT",
+      "code_10": "4500",
+      "code_20": "6200",
+      "code_40": "3.5",
+      "code_1": "扩大卫生间"
+    }
+  ]
+}
