@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="700" viewBox="0 0 800 700">
+<rect width="100%" height="100%" fill="#1a1a2e"/>
+<text x="400" y="25" text-anchor="middle" fill="#e0e0e0" font-size="14" font-family="monospace">课题010 — 晴碧园晶园26栋 综合图纸解析</text>
+<text x="146.7" y="443.9" fill="#4fc3f7" font-size="12" font-family="monospace" text-anchor="middle">淋浴</text>
+<text x="653.3" y="396.4" fill="#ff7043" font-size="10" font-family="monospace" text-anchor="middle">壁龛</text>
+<text x="434.0" y="163.8" fill="#81c784" font-size="12" font-family="monospace" text-anchor="middle">餐厅</text>
+<text x="467.2" y="163.5" fill="#ffb74d" font-size="12" font-family="monospace" text-anchor="middle">卫生间</text>
+<text x="466.9" y="165.4" fill="#ce93d8" font-size="12" font-family="monospace" text-anchor="middle">卫生间</text>
+<text x="471.7" y="162.8" fill="#4dd0e1" font-size="12" font-family="monospace" text-anchor="middle">卧室</text>
+<text x="445.5" y="162.2" fill="#f06292" font-size="12" font-family="monospace" text-anchor="middle">休闲区</text>
+<text x="443.1" y="165.6" fill="#a1887f" font-size="12" font-family="monospace" text-anchor="middle">卫生间</text>
+<text x="441.1" y="165.8" fill="#4fc3f7" font-size="12" font-family="monospace" text-anchor="middle">储藏间</text>
+<text x="460.5" y="160.3" fill="#ff7043" font-size="12" font-family="monospace" text-anchor="middle">茶室</text>
+<text x="464.2" y="158.6" fill="#81c784" font-size="12" font-family="monospace" text-anchor="middle">早餐区</text>
+<text x="467.0" y="156.8" fill="#ffb74d" font-size="12" font-family="monospace" text-anchor="middle">衣帽间</text>
+<text x="436.9" y="163.7" fill="#ce93d8" font-size="12" font-family="monospace" text-anchor="middle">上17步</text>
+<text x="445.8" y="163.7" fill="#4dd0e1" font-size="10" font-family="monospace" text-anchor="middle">棋牌桌</text>
+<text x="437.8" y="164.4" fill="#f06292" font-size="12" font-family="monospace" text-anchor="middle">电梯（井道净宽1.6米，净深1.58米）</text>
+<text x="464.1" y="159.8" fill="#a1887f" font-size="10" font-family="monospace" text-anchor="middle">岛台</text>
+<text x="466.8" y="160.0" fill="#4fc3f7" font-size="12" font-family="monospace" text-anchor="middle">挑空</text>
+<text x="458.8" y="161.5" fill="#ff7043" font-size="10" font-family="monospace" text-anchor="middle">TV</text>
+<text x="467.0" y="166.7" fill="#81c784" font-size="10" font-family="monospace" text-anchor="middle">淋浴</text>
+<text x="494.8" y="160.1" fill="#ffb74d" font-size="12" font-family="monospace" text-anchor="middle">卧室一（主卧）</text>
+<text x="499.1" y="164.4" fill="#ce93d8" font-size="12" font-family="monospace" text-anchor="middle">卧室二</text>
+<text x="462.9" y="163.7" fill="#4dd0e1" font-size="12" font-family="monospace" text-anchor="middle">上21步</text>
+<text x="465.4" y="164.5" fill="#f06292" font-size="12" font-family="monospace" text-anchor="middle">下17步</text>
+<text x="493.5" y="163.6" fill="#a1887f" font-size="12" font-family="monospace" text-anchor="middle">下21步</text>
+<text x="490.7" y="158.5" fill="#4fc3f7" font-size="10" font-family="monospace" text-anchor="middle">淋浴</text>
+<text x="492.1" y="158.0" fill="#ff7043" font-size="12" font-family="monospace" text-anchor="middle">卫生间</text>
+<text x="496.0" y="166.3" fill="#81c784" font-size="12" font-family="monospace" text-anchor="middle">卫生间</text>
+<text x="491.9" y="160.4" fill="#ffb74d" font-size="12" font-family="monospace" text-anchor="middle">衣帽间</text>
+<text x="494.5" y="164.9" fill="#ce93d8" font-size="12" font-family="monospace" text-anchor="middle">衣帽间</text>
+<text x="497.0" y="166.2" fill="#4dd0e1" font-size="10" font-family="monospace" text-anchor="middle">淋浴</text>
+<text x="499.8" y="159.6" fill="#f06292" font-size="12" font-family="monospace" text-anchor="middle">景观阳台</text>
+<text x="498.8" y="156.9" fill="#a1887f" font-size="12" font-family="monospace" text-anchor="middle">洗衣房</text>
+<text x="430.9" y="163.9" fill="#4fc3f7" font-size="12" font-family="monospace" text-anchor="middle">阳台</text>
+<text x="436.6" y="162.5" fill="#ff7043" font-size="12" font-family="monospace" text-anchor="middle">下3步</text>
+<text x="441.9" y="162.6" fill="#81c784" font-size="12" font-family="monospace" text-anchor="middle">下3步</text>
+<text x="499.2" y="156.1" fill="#ffb74d" font-size="10" font-family="monospace" text-anchor="middle">洗衣机</text>
+<text x="499.8" y="156.1" fill="#ce93d8" font-size="10" font-family="monospace" text-anchor="middle">烘干机</text>
+<text x="498.3" y="156.1" fill="#4dd0e1" font-size="10" font-family="monospace" text-anchor="middle">洗衣机</text>
+<text x="459.0" y="164.1" fill="#f06292" font-size="12" font-family="monospace" text-anchor="middle">客厅</text>
+<text x="462.4" y="156.3" fill="#a1887f" font-size="10" font-family="monospace" text-anchor="middle">院子</text>
+<text x="438.2" y="159.4" fill="#4fc3f7" font-size="10" font-family="monospace" text-anchor="middle">手工桌</text>
+<text x="462.1" y="165.7" fill="#ff7043" font-size="10" font-family="monospace" text-anchor="middle">钢琴</text>
+<text x="444.4" y="160.3" fill="#81c784" font-size="10" font-family="monospace" text-anchor="middle">瑜伽垫</text>
+<text x="495.5" y="165.3" fill="#ffb74d" font-size="10" font-family="monospace" text-anchor="middle">衣柜</text>
+<text x="488.9" y="159.6" fill="#ce93d8" font-size="12" font-family="monospace" text-anchor="middle">衣帽间</text>
+<text x="486.4" y="159.4" fill="#4dd0e1" font-size="10" font-family="monospace" text-anchor="middle">淋浴</text>
+<text x="488.4" y="162.7" fill="#f06292" font-size="12" font-family="monospace" text-anchor="middle">卧室三</text>
+<text x="434.4" y="158.7" fill="#a1887f" font-size="12" font-family="monospace" text-anchor="middle">厨房</text>
+<text x="434.4" y="159.9" fill="#4fc3f7" font-size="10" font-family="monospace" text-anchor="middle">岛台</text>
+<text x="427.9" y="159.8" fill="#ff7043" font-size="12" font-family="monospace" text-anchor="middle">院子</text>
+<text x="501.9" y="159.3" fill="#81c784" font-size="12" font-family="monospace" text-anchor="middle">绿植</text>
+<text x="465.5" y="158.1" fill="#ffb74d" font-size="10" font-family="monospace" text-anchor="middle">冰箱</text>
+<text x="463.0" y="158.1" fill="#ce93d8" font-size="10" font-family="monospace" text-anchor="middle">高柜\P扫地机器人</text>
+<text x="436.0" y="160.6" fill="#4dd0e1" font-size="10" font-family="monospace" text-anchor="middle">冰箱</text>
+<text x="436.0" y="160.0" fill="#f06292" font-size="10" font-family="monospace" text-anchor="middle">高柜\P烤箱</text>
+<text x="436.0" y="159.4" fill="#a1887f" font-size="10" font-family="monospace" text-anchor="middle">高柜\P微波炉</text>
+<text x="470.7" y="159.9" fill="#4fc3f7" font-size="12" font-family="monospace" text-anchor="middle">玄关</text>
+<text x="473.8" y="160.1" fill="#ff7043" font-size="12" font-family="monospace" text-anchor="middle">门厅</text>
+<text x="445.7" y="165.3" fill="#81c784" font-size="10" font-family="monospace" text-anchor="middle">预留排风口</text>
+<text x="497.1" y="157.4" fill="#ffb74d" font-size="10" font-family="monospace" text-anchor="middle">壁挂空调</text>
+<text x="487.4" y="161.9" fill="#ce93d8" font-size="10" font-family="monospace" text-anchor="middle">暗门</text>
+<text x="494.9" y="156.5" fill="#4dd0e1" font-size="12" font-family="monospace" text-anchor="middle">露台</text>
+<text x="500.8" y="156.3" fill="#f06292" font-size="10" font-family="monospace" text-anchor="middle">晾衣架</text>
+<text x="500.8" y="157.0" fill="#a1887f" font-size="10" font-family="monospace" text-anchor="middle">晾衣架</text>
+<text x="498.2" y="159.5" fill="#4fc3f7" font-size="10" font-family="monospace" text-anchor="middle">电动伸缩遮阳棚</text>
+<text x="487.0" y="159.8" fill="#ff7043" font-size="10" font-family="monospace" text-anchor="middle">移门</text>
+<text x="484.4" y="163.9" fill="#81c784" font-size="12" font-family="monospace" text-anchor="middle">露台</text>
+<text x="471.6" y="157.0" fill="#ffb74d" font-size="12" font-family="monospace" text-anchor="middle">车库</text>
+<text x="468.5" y="164.6" fill="#ce93d8" font-size="12" font-family="monospace" text-anchor="middle">衣帽间</text>
+<text x="471.3" y="159.2" fill="#4dd0e1" font-size="10" font-family="monospace" text-anchor="middle">鞋柜</text>
+<text x="470.8" y="161.6" fill="#f06292" font-size="10" font-family="monospace" text-anchor="middle">鞋柜</text>
+<text x="473.5" y="159.2" fill="#a1887f" font-size="10" font-family="monospace" text-anchor="middle">成品鞋柜</text>
+<text x="466.2" y="166.5" fill="#4fc3f7" font-size="10" font-family="monospace" text-anchor="middle">壁龛</text>
+<text x="486.6" y="158.6" fill="#ff7043" font-size="10" font-family="monospace" text-anchor="middle">壁龛</text>
+<text x="486.4" y="161.1" fill="#81c784" font-size="10" font-family="monospace" text-anchor="middle">壁龛</text>
+<text x="486.0" y="162.8" fill="#ffb74d" font-size="12" font-family="monospace" text-anchor="middle">休闲区</text>
+<text x="460.2" y="156.9" fill="#ce93d8" font-size="10" font-family="monospace" text-anchor="middle">设备间</text>
+<text x="444.6" y="159.1" fill="#4dd0e1" font-size="10" font-family="monospace" text-anchor="middle">墙面镜子</text>
+<text x="446.6" y="160.2" fill="#f06292" font-size="10" font-family="monospace" text-anchor="middle">墙面投影</text>
+<text x="439.1" y="161.6" fill="#a1887f" font-size="10" font-family="monospace" text-anchor="middle">顶面铜管挂绿植</text>
+<text x="444.4" y="162.0" fill="#4fc3f7" font-size="10" font-family="monospace" text-anchor="middle">顶面铜管挂绿植</text>
+<text x="445.7" y="166.2" fill="#ff7043" font-size="12" font-family="monospace" text-anchor="middle">车位</text>
+<text x="485.2" y="162.3" fill="#81c784" font-size="10" font-family="monospace" text-anchor="middle">可开启窗</text>
+<text x="496.3" y="156.1" fill="#ffb74d" font-size="10" font-family="monospace" text-anchor="middle">可开启窗</text>
+<text x="501.5" y="156.6" fill="#ce93d8" font-size="10" font-family="monospace" text-anchor="middle">可开启窗</text>
+<text x="468.4" y="156.1" fill="#4dd0e1" font-size="10" font-family="monospace" text-anchor="middle">弱电机柜</text>
+<text x="469.2" y="161.6" fill="#f06292" font-size="10" font-family="monospace" text-anchor="middle">强电箱</text>
+<text x="493.7" y="161.7" fill="#a1887f" font-size="10" font-family="monospace" text-anchor="middle">强电箱</text>
+<text x="442.3" y="164.7" fill="#4fc3f7" font-size="10" font-family="monospace" text-anchor="middle">强电箱</text>
+<text x="489.0" y="161.9" fill="#ff7043" font-size="10" font-family="monospace" text-anchor="middle">暗门</text>
+<text x="469.5" y="159.3" fill="#81c784" font-size="10" font-family="monospace" text-anchor="middle">暗门</text>
+<text x="463.9" y="157.0" fill="#ffb74d" font-size="10" font-family="monospace" text-anchor="middle">硬化地面</text>
+<text x="438.1" y="161.3" fill="#ce93d8" font-size="10" font-family="monospace" text-anchor="middle">玻璃砖隔墙</text>
+<text x="443.0" y="161.4" fill="#4dd0e1" font-size="10" font-family="monospace" text-anchor="middle">洞洞板</text>
+<text x="443.8" y="163.6" fill="#f06292" font-size="10" font-family="monospace" text-anchor="middle">玻璃砖隔墙</text>
+<text x="469.3" y="160.4" fill="#a1887f" font-size="10" font-family="monospace" text-anchor="middle">大门中心线</text>
+<text x="474.3" y="162.6" fill="#4fc3f7" font-size="10" font-family="monospace" text-anchor="middle">坡度</text>
+<text x="464.0" y="161.2" fill="#ff7043" font-size="10" font-family="monospace" text-anchor="middle">玻璃砖隔墙</text>
+<text x="462.6" y="159.4" fill="#81c784" font-size="10" font-family="monospace" text-anchor="middle">玻璃砖隔墙</text>
+<text x="458.8" y="162.3" fill="#ffb74d" font-size="10" font-family="monospace" text-anchor="middle">电视机中心线</text>
+<text x="486.1" y="161.7" fill="#ce93d8" font-size="10" font-family="monospace" text-anchor="middle">书桌</text>
+<text x="493.6" y="162.4" fill="#4dd0e1" font-size="12" font-family="monospace" text-anchor="middle">门洞</text>
+<text x="443.7" y="166.9" fill="#f06292" font-size="10" font-family="monospace" text-anchor="middle">小水池</text>
+<text x="432.6" y="158.9" fill="#a1887f" font-size="10" font-family="monospace" text-anchor="middle">洗碗机</text>
+<text x="438.4" y="162.7" fill="#4fc3f7" font-size="12" font-family="monospace" text-anchor="middle">电梯厅</text>
+<text x="439.7" y="159.4" fill="#ff7043" font-size="12" font-family="monospace" text-anchor="middle">手工区</text>
+<text x="464.2" y="162.6" fill="#81c784" font-size="12" font-family="monospace" text-anchor="middle">电梯厅</text>
+<text x="491.7" y="162.3" fill="#ffb74d" font-size="12" font-family="monospace" text-anchor="middle">电梯厅</text>
+<text x="500.9" y="161.6" fill="#ce93d8" font-size="10" font-family="monospace" text-anchor="middle">水池</text>
+<text x="443.4" y="164.5" fill="#4dd0e1" font-size="10" font-family="monospace" text-anchor="middle">暗门</text>
+<text x="436.4" y="165.5" fill="#f06292" font-size="10" font-family="monospace" text-anchor="middle">餐边柜</text>
+<text x="434.3" y="160.8" fill="#a1887f" font-size="10" font-family="monospace" text-anchor="middle">内嵌电磁炉</text>
+<text x="436.0" y="158.8" fill="#4fc3f7" font-size="10" font-family="monospace" text-anchor="middle">空气炸锅\P电饭锅</text>
+<text x="432.7" y="159.8" fill="#ff7043" font-size="10" font-family="monospace" text-anchor="middle">净水</text>
+<text x="465.3" y="167.1" fill="#81c784" font-size="10" font-family="monospace" text-anchor="middle">预留水源\P预留充电桩</text>
+<text x="464.6" y="158.1" fill="#ffb74d" font-size="10" font-family="monospace" text-anchor="middle">净水</text>
+<text x="463.8" y="158.0" fill="#ce93d8" font-size="10" font-family="monospace" text-anchor="middle">咖啡机\P破壁机</text>
+<text x="491.4" y="157.8" fill="#4dd0e1" font-size="10" font-family="monospace" text-anchor="middle">电热毛巾架</text>
+<text x="487.0" y="158.7" fill="#f06292" font-size="10" font-family="monospace" text-anchor="middle">电热毛巾架</text>
+<text x="497.4" y="165.0" fill="#a1887f" font-size="10" font-family="monospace" text-anchor="middle">电热毛巾架</text>
+<text x="465.4" y="156.1" fill="#4fc3f7" font-size="10" font-family="monospace" text-anchor="middle">预留水龙头</text>
+<text x="497.1" y="157.2" fill="#ff7043" font-size="10" font-family="monospace" text-anchor="middle">壁挂电动伸缩水管</text>
+<text x="434.4" y="160.5" fill="#81c784" font-size="10" font-family="monospace" text-anchor="middle">绞肉机</text>
+<text x="500.2" y="165.3" fill="#ffb74d" font-size="10" font-family="monospace" text-anchor="middle">书桌</text>
+<text x="499.2" y="165.2" fill="#ce93d8" font-size="10" font-family="monospace" text-anchor="middle">五斗柜</text>
+<text x="472.6" y="162.1" fill="#4dd0e1" font-size="10" font-family="monospace" text-anchor="middle">书桌</text>
+<text x="471.6" y="162.2" fill="#f06292" font-size="10" font-family="monospace" text-anchor="middle">五斗柜</text>
+<text x="495.6" y="161.4" fill="#a1887f" font-size="10" font-family="monospace" text-anchor="middle">书桌</text>
+<text x="486.1" y="166.6" fill="#4fc3f7" font-size="10" font-family="monospace" text-anchor="middle">五斗柜</text>
+<text x="468.0" y="166.5" fill="#ff7043" font-size="10" font-family="monospace" text-anchor="middle">电热毛巾架</text>
+<text x="462.1" y="164.2" fill="#81c784" font-size="10" font-family="monospace" text-anchor="middle">留声机</text>
+<text x="442.4" y="165.7" fill="#ffb74d" font-size="10" font-family="monospace" text-anchor="middle">扫地机器人</text>
+<text x="444.3" y="165.3" fill="#ce93d8" font-size="10" font-family="monospace" text-anchor="middle">除湿机</text>
+<text x="463.7" y="164.4" fill="#4dd0e1" font-size="12" font-family="monospace" text-anchor="middle">电梯（井道净宽1.6米，净深1.58米）</text>
+<text x="491.3" y="164.4" fill="#f06292" font-size="12" font-family="monospace" text-anchor="middle">电梯（井道净宽1.6米，净深1.58米）</text>
+<path d="M 466.3 163.3 A 2.0 2.0 0 0 1 468.3 163.3" fill="none" stroke="#e57373" stroke-width="1.5"/>
+<path d="M 469.1 162.1 A 2.0 2.0 0 0 1 471.1 162.1" fill="none" stroke="#e57373" stroke-width="1.5"/>
+<path d="M 442.0 164.5 A 2.0 2.0 0 0 1 444.0 164.5" fill="none" stroke="#e57373" stroke-width="1.5"/>
+<path d="M 491.2 157.9 A 2.0 2.0 0 0 1 493.2 157.9" fill="none" stroke="#e57373" stroke-width="1.5"/>
+<path d="M 492.2 159.2 A 2.0 2.0 0 0 1 494.2 159.2" fill="none" stroke="#e57373" stroke-width="1.5"/>
+<path d="M 498.0 161.6 A 2.0 2.0 0 0 1 500.0 161.6" fill="none" stroke="#e57373" stroke-width="1.5"/>
+<path d="M 495.9 164.9 A 2.0 2.0 0 0 1 497.9 164.9" fill="none" stroke="#e57373" stroke-width="1.5"/>
+<path d="M 495.6 163.8 A 2.0 2.0 0 0 1 497.6 163.8" fill="none" stroke="#e57373" stroke-width="1.5"/>
+<path d="M 472.8 159.5 A 2.0 2.0 0 0 1 474.8 159.5" fill="none" stroke="#e57373" stroke-width="1.5"/>
+<path d="M 466.3 157.4 A 2.0 2.0 0 0 1 468.3 157.4" fill="none" stroke="#e57373" stroke-width="1.5"/>
+<path d="M 496.6 165.7 A 2.0 2.0 0 0 1 498.6 165.7" fill="none" stroke="#e57373" stroke-width="1.5"/>
+<path d="M 474.8 161.8 A 2.0 2.0 0 0 1 476.8 161.8" fill="none" stroke="#e57373" stroke-width="1.5"/>
+<path d="M 472.8 161.1 A 2.0 2.0 0 0 1 474.8 161.1" fill="none" stroke="#e57373" stroke-width="1.5"/>
+<path d="M 490.1 162.1 A 2.0 2.0 0 0 1 492.1 162.1" fill="none" stroke="#e57373" stroke-width="1.5"/>
+<path d="M 495.9 163.3 A 2.0 2.0 0 0 1 497.9 163.3" fill="none" stroke="#e57373" stroke-width="1.5"/>
+<path d="M 496.6 157.4 A 2.0 2.0 0 0 1 498.6 157.4" fill="none" stroke="#e57373" stroke-width="1.5"/>
+<path d="M 467.7 165.1 A 2.0 2.0 0 0 1 469.7 165.1" fill="none" stroke="#e57373" stroke-width="1.5"/>
+<path d="M 485.4 166.2 A 2.0 2.0 0 0 1 487.4 166.2" fill="none" stroke="#e57373" stroke-width="1.5"/>
+<path d="M 493.9 161.7 A 2.0 2.0 0 0 1 495.9 161.7" fill="none" stroke="#e57373" stroke-width="1.5"/>
+<path d="M 439.4 164.4 A 2.0 2.0 0 0 1 441.4 164.4" fill="none" stroke="#e57373" stroke-width="1.5"/>
+<text x="20" y="580" fill="#4fc3f7" font-size="12" font-family="monospace">■ 房间名 (H=140)</text>
+<text x="20" y="598" fill="#81c784" font-size="10" font-family="monospace">● 家具名 (H=100)</text>
+<text x="20" y="616" fill="#e57373" font-size="12" font-family="monospace">⌒ 门弧</text>
+<text x="20" y="634" fill="#888" font-size="10" font-family="monospace">晴碧园晶园26栋 | 4701 entities | 房间淋浴 / 餐厅 / 卫生间 / 卫生间 / 卧室 / 休闲区 </text>
+</svg>

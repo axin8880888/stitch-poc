@@ -1,0 +1,152 @@
+=================================================================
+  课题008 — INSERT 块引用解析报告
+  文件: /storage/emulated/0/设计/DXF学习/晴碧园晶园26栋.dxf
+=================================================================
+
+  1. 概况
+  --------------------------------------------------
+    INSERT 引用: 91
+    BLOCK 定义: 291
+
+  2. 块引用 TOP20
+  --------------------------------------------------
+    dfhgfjhgjghgg                 : 21次 [✓][9实体]
+    A$C47632887                   : 15次 [✓][157实体]
+    dfhdddddd                     : 6次 [✓][21实体]
+    FGHGFJGFJGF                   : 4次 [✓][48实体]
+    DFHGFHGFJHGJ                  : 4次 [✓][143实体]
+    FHGFJHGJGGGG                  : 4次 [✓][13实体]
+    fhgfhgf                       : 3次 [✓][18实体]
+    FGHGFJHGJHG                   : 3次 [✓][10实体]
+    fhfhgjgh                      : 3次 [✓][10实体]
+    YLD.Studio-CAD---156          : 3次 [✓][95实体]
+    wg                            : 3次 [✓][15实体]
+    dfhfjfgjf                     : 2次 [✓][9实体]
+    DFGFHGFJGFFF                  : 2次 [✓][43实体]
+    YLD.Studio-CAD--76            : 2次 [✓][131实体]
+    fhgjhgjgh                     : 2次 [✓][43实体]
+    ZHOUXIAN                      : 1次 [✓][286实体]
+    FHGFJGHJHG                    : 1次 [✓][9实体]
+    DFBDFBDFSB                    : 1次 [✓][13实体]
+    fhgfjhgjghgh                  : 1次 [✓][61实体]
+    A$C5DF34C6F                   : 1次 [✓][110实体]
+
+  3. 图层分布
+  --------------------------------------------------
+    P-活动家具                        : 43
+    A-土建墙（含管井、立管）                 : 25
+    P-固定家具（悬空）                    : 7
+    P-洁具及配件（地坪图不显示）               : 4
+    活动家私                          : 3
+    BJ-X15 活动家具                   : 3
+    A-新隔墙                         : 3
+    P-楼梯（包括扶手）                    : 1
+    A-轴线                          : 1
+    W-尺寸                          : 1
+
+  4. 块名质量分析
+  --------------------------------------------------
+    小写块            : 39
+    大写块            : 22
+    代理匿名块          : 18
+    标准库(YLD)       : 7
+    短名块            : 3
+    轴线符号           : 2
+
+  5. INSERT 明细
+  --------------------------------------------------
+    #1: ZHOUXIAN                       @(7246, -70909) rot=0 scale=1.00 layer=P-楼梯（包括扶手）
+    #2: dfhgfjhgjghgg                  @(-69106, -337003) rot=90 scale=1.00 layer=A-土建墙（含管井、立管）
+    #3: dfhgfjhgjghgg                  @(-63806, -337003) rot=90 scale=1.00 layer=A-土建墙（含管井、立管）
+    #4: dfhgfjhgjghgg                  @(-55406, -337303) rot=90 scale=1.00 layer=A-土建墙（含管井、立管）
+    #5: dfhgfjhgjghgg                  @(-50906, -328538) rot=90 scale=1.00 layer=A-土建墙（含管井、立管）
+    #6: dfhgfjhgjghgg                  @(-52306, -328538) rot=90 scale=1.00 layer=A-土建墙（含管井、立管）
+    #7: dfhgfjhgjghgg                  @(-56506, -300917) rot=90 scale=-1.00 layer=A-土建墙（含管井、立管）
+    #8: dfhgfjhgjghgg                  @(-55406, -333203) rot=90 scale=1.00 layer=A-土建墙（含管井、立管）
+    #9: dfhgfjhgjghgg                  @(-63806, -331003) rot=90 scale=1.00 layer=A-土建墙（含管井、立管）
+    #10: dfhgfjhgjghgg                  @(-59906, -331003) rot=90 scale=1.00 layer=A-土建墙（含管井、立管）
+    #11: dfhgfjhgjghgg                  @(-32748, -337003) rot=90 scale=1.00 layer=A-土建墙（含管井、立管）
+    #12: dfhgfjhgjghgg                  @(-24348, -337303) rot=90 scale=1.00 layer=A-土建墙（含管井、立管）
+    #13: dfhgfjhgjghgg                  @(-24348, -333203) rot=90 scale=1.00 layer=A-土建墙（含管井、立管）
+    #14: dfhgfjhgjghgg                  @(-25548, -331603) rot=90 scale=1.00 layer=A-土建墙（含管井、立管）
+    #15: dfhgfjhgjghgg                  @(-32748, -328103) rot=90 scale=1.00 layer=A-土建墙（含管井、立管）
+    #16: dfhgfjhgjghgg                  @(-36448, -337003) rot=90 scale=1.00 layer=A-土建墙（含管井、立管）
+    #17: dfhgfjhgjghgg                  @(-37448, -331003) rot=90 scale=1.00 layer=A-土建墙（含管井、立管）
+    #18: dfhgfjhgjghgg                  @(-28848, -331003) rot=90 scale=1.00 layer=A-土建墙（含管井、立管）
+    #19: dfhgfjhgjghgg                  @(-98314, -337003) rot=90 scale=1.00 layer=A-土建墙（含管井、立管）
+    #20: dfhgfjhgjghgg                  @(-93014, -337003) rot=90 scale=1.00 layer=A-土建墙（含管井、立管）
+    #21: dfhgfjhgjghgg                  @(-100314, -337003) rot=90 scale=1.00 layer=A-土建墙（含管井、立管）
+    #22: dfhgfjhgjghgg                  @(-100314, -331153) rot=90 scale=1.00 layer=A-土建墙（含管井、立管）
+    #23: FHGFJGHJHG                     @(262542, -13507) rot=0 scale=1.00 layer=P-活动家具
+    #24: FGHGFJGFJGF                    @(2292138, 447945) rot=270 scale=-1.00 layer=P-洁具及配件（地坪图不显示）
+    #25: dfhfjfgjf                      @(-1971788, -748848) rot=90 scale=-1.00 layer=P-活动家具
+    #26: DFHGFHGFJHGJ                   @(408035, -441377) rot=270 scale=1.00 layer=P-活动家具
+    #27: dfhdddddd                      @(2200818, 580823) rot=270 scale=-1.00 layer=P-固定家具（悬空）
+    #28: DFHGFHGFJHGJ                   @(-10723, -197058) rot=90 scale=1.00 layer=P-活动家具
+    #29: DFHGFHGFJHGJ                   @(-6223, -201458) rot=90 scale=1.00 layer=P-活动家具
+    #30: dfhdddddd                      @(-1844664, -1218406) rot=90 scale=-1.00 layer=P-固定家具（悬空）
+    #31: DFBDFBDFSB                     @(157179, -321173) rot=135 scale=1.00 layer=活动家私
+    #32: fhgfjhgjghgh                   @(11603, -600186) rot=180 scale=-1.00 layer=A-土建墙（含管井、立管）
+    #33: A$C47632887                    @(187117, -323227) rot=0 scale=-0.80 layer=P-活动家具
+    #34: A$C47632887                    @(187117, -319553) rot=180 scale=0.80 layer=P-活动家具
+    #35: A$C47632887                    @(174806, -324614) rot=90 scale=-0.80 layer=P-活动家具
+    #36: A$C47632887                    @(167865, -324538) rot=0 scale=-0.80 layer=P-活动家具
+    #37: FGHGFJGFJGF                    @(985073, 1789464) rot=0 scale=1.00 layer=P-洁具及配件（地坪图不显示）
+    #38: dfhdddddd                      @(1115071, -2345443) rot=180 scale=-1.00 layer=P-固定家具（悬空）
+    #39: A$C5DF34C6F                    @(203733, -316942) rot=270 scale=1.00 layer=活动家私
+    #40: A$C47632887                    @(218176, -323227) rot=0 scale=-0.80 layer=P-活动家具
+    #41: A$C47632887                    @(218176, -319558) rot=180 scale=0.80 layer=P-活动家具
+    #42: FGHGFJGFJGF                    @(2320337, -1087430) rot=270 scale=1.00 layer=P-洁具及配件（地坪图不显示）
+    #43: dfhdddddd                      @(-693469, 1705299) rot=0 scale=-1.00 layer=P-固定家具（悬空）
+    #44: A$C47632887                    @(214476, -315207) rot=180 scale=0.80 layer=P-活动家具
+    #45: A$C47632887                    @(214473, -318112) rot=0 scale=-0.80 layer=P-活动家具
+    #46: A$C47632887                    @(145565, -324686) rot=90 scale=0.80 layer=P-活动家具
+    #47: A$C47632887                    @(140577, -324546) rot=0 scale=0.80 layer=P-活动家具
+    #48: fhgfhgf                        @(-306731, -722243) rot=180 scale=-1.00 layer=BJ-X15 活动家具
+    #49: fhgfhgf                        @(-306101, -722243) rot=180 scale=-1.00 layer=BJ-X15 活动家具
+    #50: fhgfhgf                        @(-307781, -722243) rot=180 scale=-1.00 layer=BJ-X15 活动家具
+    #51: SDGDSGDGFDHGF                  @(-67726, 151136) rot=0 scale=-2.16 layer=P-活动家具
+    #52: DFGFHGFJGFFF                   @(504753, 402189) rot=0 scale=2.29 layer=P-活动家具
+    #53: FGHGFJHGJHG                    @(-73172, -190818) rot=90 scale=1.00 layer=A-新隔墙
+    #54: fhfhgjgh                       @(7246, -33578) rot=0 scale=1.00 layer=P-活动家具
+    #55: FGHGFJHGJHG                    @(-73172, -442867) rot=90 scale=-1.00 layer=A-新隔墙
+    #56: A$C322A32FE                    @(156259, -318805) rot=0 scale=1.00 layer=P-活动家具
+    #57: YLD.Studio-CAD---156           @(-44129, -48701) rot=90 scale=-1.00 layer=P-活动家具
+    #58: DFHGFHGFJHGJ                   @(426894, -442697) rot=270 scale=1.00 layer=P-活动家具
+    #59: A$C47632887                    @(200884, -324717) rot=0 scale=-0.80 layer=P-活动家具
+    #60: FGHGFJGFJGF                    @(2314531, -1089330) rot=270 scale=1.00 layer=P-洁具及配件（地坪图不显示）
+    #61: dfhfjfgjf                      @(626181, 1834873) rot=0 scale=1.00 layer=P-活动家具
+    #62: dfhdddddd                      @(-699188, 1702539) rot=0 scale=-1.00 layer=P-固定家具（悬空）
+    #63: A$C778C4224                    @(142746, -315852) rot=360 scale=1.00 layer=P-固定家具（悬空）
+    #64: ZHOUXIAN1                      @(7246, 1958) rot=0 scale=1.00 layer=A-轴线
+    #65: A$C47632887                    @(200884, -318968) rot=180 scale=0.80 layer=P-活动家具
+    #66: fhfhgjgh                       @(22405, -33048) rot=0 scale=1.00 layer=P-活动家具
+    #67: DSFDSFSFF                      @(185400, -314764) rot=270 scale=1.00 layer=活动家私
+    #68: YLD.Studio-CAD--76             @(201066, -322746) rot=270 scale=-1.00 layer=P-活动家具
+    #69: FGHGFJHGJHG                    @(-48065, -191268) rot=90 scale=1.00 layer=A-新隔墙
+    #70: wg                             @(183254, -324846) rot=90 scale=0.92 layer=A-土建墙（含管井、立管）
+    #71: wg                             @(170019, -318593) rot=90 scale=0.92 layer=A-土建墙（含管井、立管）
+    #72: wg                             @(175197, -315289) rot=90 scale=0.92 layer=A-土建墙（含管井、立管）
+    #73: DFGFHGFJGFFF                   @(295150, 41330) rot=0 scale=1.14 layer=P-活动家具
+    #74: fhgjhgjgh                      @(7029, -90446) rot=0 scale=0.80 layer=P-活动家具
+    #75: A$C47632887                    @(170449, -316060) rot=180 scale=0.80 layer=P-活动家具
+    #76: A$C47632887                    @(200965, -318968) rot=180 scale=0.80 layer=P-活动家具
+    #77: YLD.Studio-CAD---156           @(-21699, -54050) rot=90 scale=-1.00 layer=P-活动家具
+    #78: YLD.Studio-CAD--194            @(169012, -323617) rot=270 scale=-1.02 layer=P-活动家具
+    #79: YLD.Studio-CAD-129             @(87121, -203804) rot=158 scale=-1.00 layer=P-活动家具
+    #80: DSGDFGFDHGF                    @(7638, -33767) rot=0 scale=1.00 layer=W-尺寸
+    #81: YLD.Studio-CAD---156           @(438679, -125779) rot=0 scale=-1.00 layer=P-活动家具
+    #82: fhgjhgjgh                      @(-251788, -383308) rot=62 scale=1.20 layer=P-活动家具
+    #83: YLD.Studio-CAD--76             @(213636, -315892) rot=270 scale=1.00 layer=P-活动家具
+    #84: dgfdhgfhgj                     @(444455, -468083) rot=270 scale=-1.00 layer=P-活动家具
+    #85: FHGFJHGJGGGG                   @(7047, -33388) rot=0 scale=1.00 layer=P-活动家具
+    #86: FHGFJHGJGGGG                   @(2106, -34288) rot=0 scale=1.00 layer=P-活动家具
+    #87: FHGFJHGJGGGG                   @(496040, -122528) rot=270 scale=1.00 layer=P-活动家具
+    #88: fhfhgjgh                       @(391466, -605207) rot=180 scale=1.00 layer=P-活动家具
+    #89: A$C47632887                    @(179069, -324043) rot=270 scale=-0.80 layer=P-活动家具
+    #90: FHGFJHGJGGGG                   @(-100808, -524732) rot=90 scale=1.00 layer=P-活动家具
+    #91: dfhdddddd                      @(1055571, -2344273) rot=180 scale=-1.00 layer=P-固定家具（悬空）
+
+=================================================================
+  报告结束
+=================================================================

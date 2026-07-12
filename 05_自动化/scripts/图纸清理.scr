@@ -1,0 +1,57 @@
+; ========== 图纸清理.scr ==========
+; AutoCAD Script — 一键清理/修复图纸
+; 用法: SCRIPT 图纸清理.scr
+
+; 关闭未使用通知
+SETVAR
+FILEDIA
+0
+SETVAR
+CMDDIA
+0
+
+; 删除零长度LINE
+SELECT
+X
+LINE
+(-4 = ,10 0,20 0,30 0,11 0,21 0,31 0)
+ERASE
+P
+
+; 全部选择 → OVERKILL 删除重复
+SETVAR
+HIGHLIGHT
+0
+; OVERKILL 在SCR里不太好用，跳过
+SETVAR
+HIGHLIGHT
+1
+
+; 清理未使用
+PURGE
+A
+N
+N
+PURGE
+R
+N
+N
+
+; 审计
+SETVAR
+AUDITCTL
+0
+AUDIT
+Y
+
+; 恢复设置
+SETVAR
+FILEDIA
+1
+SETVAR
+CMDDIA
+1
+ZOOM
+E
+REGEN
+'_

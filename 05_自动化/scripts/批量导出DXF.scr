@@ -1,0 +1,27 @@
+; ========== 批量导出DXF.scr ==========
+; 将当前DWG另存为DXF（R2000格式，兼容性好）
+; 用法: 打开DWG后 SCRIPT 批量导出DXF.scr
+
+; 获取当前文件名
+SETVAR
+FILEDIA
+0
+
+; 另存为DXF - 文件名自动生成（DWG名+_export）
+; 注意: SAVEAS 需要文件名，SCR中无法从变量拼接
+; 以下用固定名，每次使用前改一下
+
+; ---- 修改下面这行 ----
+SAVEAS
+2000
+晴碧园晶园26栋_export.dxf
+
+; ---- 或者取消注释下面，命名成你需要的 ----
+; SAVEAS
+; 2000
+; 我的图纸_export.dxf
+
+SETVAR
+FILEDIA
+1
+'_

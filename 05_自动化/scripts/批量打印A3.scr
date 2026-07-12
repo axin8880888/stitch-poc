@@ -1,0 +1,93 @@
+; ========== 批量打印A3.scr ==========
+; 将当前图纸所有布局批量打印为PDF (A3横版，黑白)
+; 用法: SCRIPT 批量打印A3.scr
+
+; 设置打印参数
+SETVAR
+CTAB
+Model
+
+; 切换到每个布局并打印
+; 注意: 需要逐个布局切换，SCR中无法循环
+; 如果多于3个布局，请复制下面的块
+
+; === 布局1 ===
+SETVAR
+CTAB
+Layout1
+-PLOT
+Y
+;
+DWG To PDF.pc3
+ISO_A3_(420.00_x_297.00_MM)
+M
+L
+N
+E
+F
+C
+Y
+monochrome.ctb
+Y
+;
+N
+N
+N
+Y
+Y
+
+; === 布局2 ===
+SETVAR
+CTAB
+Layout2
+-PLOT
+Y
+;
+DWG To PDF.pc3
+ISO_A3_(420.00_x_297.00_MM)
+M
+L
+N
+E
+F
+C
+Y
+monochrome.ctb
+Y
+;
+N
+N
+N
+Y
+Y
+
+; === 布局3 ===
+SETVAR
+CTAB
+Layout3
+-PLOT
+Y
+;
+DWG To PDF.pc3
+ISO_A3_(420.00_x_297.00_MM)
+M
+L
+N
+E
+F
+C
+Y
+monochrome.ctb
+Y
+;
+N
+N
+N
+Y
+Y
+
+SETVAR
+CTAB
+Model
+REGEN
+'_

@@ -1,0 +1,2500 @@
+{
+  "project": "晴碧园全楼层",
+  "source": "/storage/emulated/0/Download/篮筐整改/CAD_Master/05_自动化/训练记录/晴碧园_全楼层_重绘_解析.json",
+  "total_dimensions": 118,
+  "horizontal": 74,
+  "vertical": 44,
+  "styles": [
+    "HG-60",
+    "HG-70",
+    "HG-80"
+  ],
+  "layers": [
+    "A-DIMS"
+  ],
+  "range_mm": {
+    "min": 120.0,
+    "max": 20500.0
+  },
+  "total_measured_length_mm": 359545.0,
+  "dimensions": [
+    {
+      "idx": 1,
+      "handle": "7C6DCA",
+      "orientation": "垂直标注线",
+      "measurement_mm": 5800.0,
+      "rotation": 90.0,
+      "style": "HG-60",
+      "layer": "A-DIMS",
+      "ext1": [
+        169826.65,
+        -324742.37
+      ],
+      "ext2": [
+        170426.65,
+        -318942.37
+      ],
+      "text_pos": [
+        167017.06,
+        -321842.37
+      ]
+    },
+    {
+      "idx": 2,
+      "handle": "7C6DCD",
+      "orientation": "垂直标注线",
+      "measurement_mm": 250.0,
+      "rotation": 90.0,
+      "style": "HG-60",
+      "layer": "A-DIMS",
+      "ext1": [
+        170426.65,
+        -318942.37
+      ],
+      "ext2": [
+        170326.65,
+        -318692.37
+      ],
+      "text_pos": [
+        167017.06,
+        -318817.37
+      ]
+    },
+    {
+      "idx": 3,
+      "handle": "7C6DD0",
+      "orientation": "垂直标注线",
+      "measurement_mm": 2750.0,
+      "rotation": 90.0,
+      "style": "HG-60",
+      "layer": "A-DIMS",
+      "ext1": [
+        170326.65,
+        -318692.37
+      ],
+      "ext2": [
+        170926.65,
+        -315942.37
+      ],
+      "text_pos": [
+        167017.06,
+        -317317.37
+      ]
+    },
+    {
+      "idx": 4,
+      "handle": "7C6DD3",
+      "orientation": "垂直标注线",
+      "measurement_mm": 600.0,
+      "rotation": 90.0,
+      "style": "HG-60",
+      "layer": "A-DIMS",
+      "ext1": [
+        170926.65,
+        -315942.37
+      ],
+      "ext2": [
+        170926.65,
+        -315342.37
+      ],
+      "text_pos": [
+        167017.06,
+        -315642.37
+      ]
+    },
+    {
+      "idx": 5,
+      "handle": "7C6DD6",
+      "orientation": "垂直标注线",
+      "measurement_mm": 9800.0,
+      "rotation": 90.0,
+      "style": "HG-60",
+      "layer": "A-DIMS",
+      "ext1": [
+        170726.65,
+        -315142.37
+      ],
+      "ext2": [
+        167526.65,
+        -324942.37
+      ],
+      "text_pos": [
+        166675.19,
+        -320042.37
+      ]
+    },
+    {
+      "idx": 6,
+      "handle": "7C7074",
+      "orientation": "水平标注线",
+      "measurement_mm": 2600.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        167526.65,
+        -318742.37
+      ],
+      "ext2": [
+        170126.65,
+        -318342.37
+      ],
+      "text_pos": [
+        168826.65,
+        -312424.63
+      ]
+    },
+    {
+      "idx": 7,
+      "handle": "7C7077",
+      "orientation": "水平标注线",
+      "measurement_mm": 4500.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        170326.65,
+        -318342.37
+      ],
+      "ext2": [
+        174826.65,
+        -316042.37
+      ],
+      "text_pos": [
+        172576.65,
+        -312424.63
+      ]
+    },
+    {
+      "idx": 8,
+      "handle": "7C7078",
+      "orientation": "水平标注线",
+      "measurement_mm": 300.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        174826.65,
+        -316042.37
+      ],
+      "ext2": [
+        175126.65,
+        -316042.37
+      ],
+      "text_pos": [
+        174976.65,
+        -312424.63
+      ]
+    },
+    {
+      "idx": 9,
+      "handle": "7C707B",
+      "orientation": "水平标注线",
+      "measurement_mm": 3800.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        175126.65,
+        -316042.37
+      ],
+      "ext2": [
+        178926.65,
+        -315642.37
+      ],
+      "text_pos": [
+        177026.65,
+        -312424.63
+      ]
+    },
+    {
+      "idx": 10,
+      "handle": "7C707E",
+      "orientation": "水平标注线",
+      "measurement_mm": 300.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        178926.65,
+        -315642.37
+      ],
+      "ext2": [
+        179226.65,
+        -313177.37
+      ],
+      "text_pos": [
+        179076.65,
+        -312424.63
+      ]
+    },
+    {
+      "idx": 11,
+      "handle": "7C7081",
+      "orientation": "水平标注线",
+      "measurement_mm": 2900.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        179226.65,
+        -313177.37
+      ],
+      "ext2": [
+        182126.65,
+        -313277.37
+      ],
+      "text_pos": [
+        180676.65,
+        -312424.63
+      ]
+    },
+    {
+      "idx": 12,
+      "handle": "7C7084",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        182126.65,
+        -313277.37
+      ],
+      "ext2": [
+        182326.65,
+        -313277.37
+      ],
+      "text_pos": [
+        182226.65,
+        -312424.63
+      ]
+    },
+    {
+      "idx": 13,
+      "handle": "7C7087",
+      "orientation": "水平标注线",
+      "measurement_mm": 5500.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        182326.65,
+        -313277.37
+      ],
+      "ext2": [
+        187826.65,
+        -313277.37
+      ],
+      "text_pos": [
+        185076.65,
+        -312424.63
+      ]
+    },
+    {
+      "idx": 14,
+      "handle": "7C708A",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        187826.65,
+        -313277.37
+      ],
+      "ext2": [
+        188026.65,
+        -313277.37
+      ],
+      "text_pos": [
+        187926.65,
+        -312424.63
+      ]
+    },
+    {
+      "idx": 15,
+      "handle": "7C708D",
+      "orientation": "水平标注线",
+      "measurement_mm": 20500.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        167526.65,
+        -318742.37
+      ],
+      "ext2": [
+        188026.65,
+        -312977.37
+      ],
+      "text_pos": [
+        177776.65,
+        -311965.76
+      ]
+    },
+    {
+      "idx": 16,
+      "handle": "7C7090",
+      "orientation": "垂直标注线",
+      "measurement_mm": 200.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        187726.65,
+        -312977.37
+      ],
+      "ext2": [
+        187726.65,
+        -313177.37
+      ],
+      "text_pos": [
+        189461.03,
+        -313077.37
+      ]
+    },
+    {
+      "idx": 17,
+      "handle": "7C7093",
+      "orientation": "垂直标注线",
+      "measurement_mm": 3700.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        186326.65,
+        -319542.37
+      ],
+      "ext2": [
+        187226.65,
+        -323242.37
+      ],
+      "text_pos": [
+        189461.03,
+        -321392.37
+      ]
+    },
+    {
+      "idx": 18,
+      "handle": "7C7096",
+      "orientation": "垂直标注线",
+      "measurement_mm": 200.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        187226.65,
+        -323242.37
+      ],
+      "ext2": [
+        187426.65,
+        -323442.37
+      ],
+      "text_pos": [
+        189461.03,
+        -323342.37
+      ]
+    },
+    {
+      "idx": 19,
+      "handle": "7C7099",
+      "orientation": "垂直标注线",
+      "measurement_mm": 1800.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        187426.65,
+        -323442.37
+      ],
+      "ext2": [
+        183526.65,
+        -325242.37
+      ],
+      "text_pos": [
+        189461.03,
+        -324342.37
+      ]
+    },
+    {
+      "idx": 20,
+      "handle": "7C709C",
+      "orientation": "垂直标注线",
+      "measurement_mm": 12265.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        183526.65,
+        -325242.37
+      ],
+      "ext2": [
+        188026.65,
+        -312977.37
+      ],
+      "text_pos": [
+        189934.64,
+        -319109.87
+      ]
+    },
+    {
+      "idx": 21,
+      "handle": "7C709D",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        170126.65,
+        -318092.37
+      ],
+      "ext2": [
+        170326.65,
+        -318342.37
+      ],
+      "text_pos": [
+        170226.65,
+        -312174.63
+      ]
+    },
+    {
+      "idx": 22,
+      "handle": "7C70A0",
+      "orientation": "垂直标注线",
+      "measurement_mm": 200.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        167726.65,
+        -324742.37
+      ],
+      "ext2": [
+        167526.65,
+        -324942.37
+      ],
+      "text_pos": [
+        166994.56,
+        -324842.37
+      ]
+    },
+    {
+      "idx": 23,
+      "handle": "7C70A3",
+      "orientation": "垂直标注线",
+      "measurement_mm": 200.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        170926.65,
+        -315342.37
+      ],
+      "ext2": [
+        170726.65,
+        -315142.37
+      ],
+      "text_pos": [
+        167054.56,
+        -315242.37
+      ]
+    },
+    {
+      "idx": 24,
+      "handle": "7C70A6",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        167526.65,
+        -324942.37
+      ],
+      "ext2": [
+        167726.65,
+        -324742.37
+      ],
+      "text_pos": [
+        167626.65,
+        -325545.85
+      ]
+    },
+    {
+      "idx": 25,
+      "handle": "7C70A7",
+      "orientation": "水平标注线",
+      "measurement_mm": 7200.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        167726.65,
+        -324742.37
+      ],
+      "ext2": [
+        174926.65,
+        -324442.37
+      ],
+      "text_pos": [
+        171326.65,
+        -325545.85
+      ]
+    },
+    {
+      "idx": 26,
+      "handle": "7C70AA",
+      "orientation": "水平标注线",
+      "measurement_mm": 3900.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        174926.65,
+        -324542.37
+      ],
+      "ext2": [
+        178826.65,
+        -324442.37
+      ],
+      "text_pos": [
+        176876.65,
+        -325545.85
+      ]
+    },
+    {
+      "idx": 27,
+      "handle": "7C70AB",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        178826.65,
+        -324942.37
+      ],
+      "ext2": [
+        179026.65,
+        -324942.37
+      ],
+      "text_pos": [
+        178926.65,
+        -325545.85
+      ]
+    },
+    {
+      "idx": 28,
+      "handle": "7C70AE",
+      "orientation": "水平标注线",
+      "measurement_mm": 1700.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        179026.65,
+        -324942.37
+      ],
+      "ext2": [
+        180726.65,
+        -325042.37
+      ],
+      "text_pos": [
+        179876.65,
+        -325545.85
+      ]
+    },
+    {
+      "idx": 29,
+      "handle": "7C70B1",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        183326.65,
+        -324942.37
+      ],
+      "ext2": [
+        183526.65,
+        -324942.37
+      ],
+      "text_pos": [
+        183426.65,
+        -325545.85
+      ]
+    },
+    {
+      "idx": 30,
+      "handle": "7C70B4",
+      "orientation": "水平标注线",
+      "measurement_mm": 3700.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        183526.65,
+        -324942.37
+      ],
+      "ext2": [
+        187226.65,
+        -323242.37
+      ],
+      "text_pos": [
+        185376.65,
+        -325545.85
+      ]
+    },
+    {
+      "idx": 31,
+      "handle": "7C70B7",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        187226.65,
+        -323242.37
+      ],
+      "ext2": [
+        187426.65,
+        -323442.37
+      ],
+      "text_pos": [
+        187326.65,
+        -325545.85
+      ]
+    },
+    {
+      "idx": 32,
+      "handle": "7C70B8",
+      "orientation": "水平标注线",
+      "measurement_mm": 19900.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        187426.65,
+        -323442.37
+      ],
+      "ext2": [
+        167526.65,
+        -324942.37
+      ],
+      "text_pos": [
+        177476.65,
+        -326080.95
+      ]
+    },
+    {
+      "idx": 33,
+      "handle": "7C70B9",
+      "orientation": "水平标注线",
+      "measurement_mm": 1100.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        188026.65,
+        -316277.37
+      ],
+      "ext2": [
+        189126.65,
+        -316477.37
+      ],
+      "text_pos": [
+        188576.65,
+        -311965.76
+      ]
+    },
+    {
+      "idx": 34,
+      "handle": "7C70BA",
+      "orientation": "水平标注线",
+      "measurement_mm": 1700.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        187426.65,
+        -323442.37
+      ],
+      "ext2": [
+        189126.65,
+        -319542.37
+      ],
+      "text_pos": [
+        188276.65,
+        -326080.95
+      ]
+    },
+    {
+      "idx": 35,
+      "handle": "7C70E0",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        158219.33,
+        -319342.37
+      ],
+      "ext2": [
+        158019.33,
+        -319542.37
+      ],
+      "text_pos": [
+        158119.33,
+        -314014.57
+      ]
+    },
+    {
+      "idx": 36,
+      "handle": "7C70E1",
+      "orientation": "水平标注线",
+      "measurement_mm": 900.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        158019.33,
+        -319542.37
+      ],
+      "ext2": [
+        157119.33,
+        -316477.37
+      ],
+      "text_pos": [
+        157569.33,
+        -314014.57
+      ]
+    },
+    {
+      "idx": 37,
+      "handle": "7C70E4",
+      "orientation": "水平标注线",
+      "measurement_mm": 4300.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        157119.33,
+        -316477.37
+      ],
+      "ext2": [
+        152819.33,
+        -316477.37
+      ],
+      "text_pos": [
+        154969.33,
+        -314014.57
+      ]
+    },
+    {
+      "idx": 38,
+      "handle": "7C70E7",
+      "orientation": "水平标注线",
+      "measurement_mm": 2950.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        152819.33,
+        -316477.37
+      ],
+      "ext2": [
+        149869.33,
+        -318592.37
+      ],
+      "text_pos": [
+        151344.33,
+        -314014.57
+      ]
+    },
+    {
+      "idx": 39,
+      "handle": "7C70EA",
+      "orientation": "水平标注线",
+      "measurement_mm": 3900.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        149869.33,
+        -318592.37
+      ],
+      "ext2": [
+        145969.33,
+        -315342.37
+      ],
+      "text_pos": [
+        147919.33,
+        -314014.57
+      ]
+    },
+    {
+      "idx": 40,
+      "handle": "7C70EB",
+      "orientation": "水平标注线",
+      "measurement_mm": 350.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        145969.33,
+        -315342.37
+      ],
+      "ext2": [
+        145619.33,
+        -314842.37
+      ],
+      "text_pos": [
+        145794.33,
+        -314014.57
+      ]
+    },
+    {
+      "idx": 41,
+      "handle": "7C70EC",
+      "orientation": "水平标注线",
+      "measurement_mm": 4500.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        145619.33,
+        -314842.37
+      ],
+      "ext2": [
+        141119.33,
+        -315342.37
+      ],
+      "text_pos": [
+        143369.33,
+        -314014.57
+      ]
+    },
+    {
+      "idx": 42,
+      "handle": "7C70EF",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        141119.33,
+        -315342.37
+      ],
+      "ext2": [
+        140919.33,
+        -315142.37
+      ],
+      "text_pos": [
+        141019.33,
+        -314014.57
+      ]
+    },
+    {
+      "idx": 43,
+      "handle": "7C70F2",
+      "orientation": "水平标注线",
+      "measurement_mm": 2400.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        140919.33,
+        -315142.37
+      ],
+      "ext2": [
+        138519.33,
+        -319092.37
+      ],
+      "text_pos": [
+        139719.33,
+        -314014.57
+      ]
+    },
+    {
+      "idx": 44,
+      "handle": "7C70F3",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        138519.33,
+        -319092.37
+      ],
+      "ext2": [
+        138319.33,
+        -319092.37
+      ],
+      "text_pos": [
+        138419.33,
+        -314014.57
+      ]
+    },
+    {
+      "idx": 45,
+      "handle": "7C70F4",
+      "orientation": "水平标注线",
+      "measurement_mm": 17300.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        140919.33,
+        -315142.37
+      ],
+      "ext2": [
+        158219.33,
+        -319342.37
+      ],
+      "text_pos": [
+        149569.33,
+        -313617.36
+      ]
+    },
+    {
+      "idx": 46,
+      "handle": "7C70F5",
+      "orientation": "垂直标注线",
+      "measurement_mm": 200.0,
+      "rotation": 90.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        153019.33,
+        -314842.37
+      ],
+      "ext2": [
+        152819.33,
+        -315042.37
+      ],
+      "text_pos": [
+        158458.65,
+        -314942.37
+      ]
+    },
+    {
+      "idx": 47,
+      "handle": "7C70F8",
+      "orientation": "垂直标注线",
+      "measurement_mm": 1435.0,
+      "rotation": 90.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        152819.33,
+        -315042.37
+      ],
+      "ext2": [
+        157119.33,
+        -316477.37
+      ],
+      "text_pos": [
+        158458.65,
+        -315759.87
+      ]
+    },
+    {
+      "idx": 48,
+      "handle": "7C70F9",
+      "orientation": "垂直标注线",
+      "measurement_mm": 3065.0,
+      "rotation": 90.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        157119.33,
+        -316477.37
+      ],
+      "ext2": [
+        158019.33,
+        -319542.37
+      ],
+      "text_pos": [
+        158458.65,
+        -318009.87
+      ]
+    },
+    {
+      "idx": 49,
+      "handle": "7C70FA",
+      "orientation": "垂直标注线",
+      "measurement_mm": 3700.0,
+      "rotation": 90.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        158019.33,
+        -319542.37
+      ],
+      "ext2": [
+        158019.33,
+        -323242.37
+      ],
+      "text_pos": [
+        158458.65,
+        -321392.37
+      ]
+    },
+    {
+      "idx": 50,
+      "handle": "7C70FB",
+      "orientation": "垂直标注线",
+      "measurement_mm": 200.0,
+      "rotation": 90.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        158019.33,
+        -323242.37
+      ],
+      "ext2": [
+        158219.33,
+        -323442.37
+      ],
+      "text_pos": [
+        158458.65,
+        -323342.37
+      ]
+    },
+    {
+      "idx": 51,
+      "handle": "7C70FC",
+      "orientation": "垂直标注线",
+      "measurement_mm": 1800.0,
+      "rotation": 90.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        158219.33,
+        -323442.37
+      ],
+      "ext2": [
+        154319.33,
+        -325242.37
+      ],
+      "text_pos": [
+        158458.65,
+        -324342.37
+      ]
+    },
+    {
+      "idx": 52,
+      "handle": "7C70FF",
+      "orientation": "垂直标注线",
+      "measurement_mm": 10400.0,
+      "rotation": 90.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        154319.33,
+        -325242.37
+      ],
+      "ext2": [
+        153019.33,
+        -314842.37
+      ],
+      "text_pos": [
+        158855.17,
+        -320042.37
+      ]
+    },
+    {
+      "idx": 53,
+      "handle": "7C7100",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        158219.33,
+        -323442.37
+      ],
+      "ext2": [
+        158019.33,
+        -323442.37
+      ],
+      "text_pos": [
+        158119.33,
+        -325652.11
+      ]
+    },
+    {
+      "idx": 54,
+      "handle": "7C7101",
+      "orientation": "水平标注线",
+      "measurement_mm": 3700.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        158019.33,
+        -323442.37
+      ],
+      "ext2": [
+        154319.33,
+        -323242.37
+      ],
+      "text_pos": [
+        156169.33,
+        -325652.11
+      ]
+    },
+    {
+      "idx": 55,
+      "handle": "7C7104",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        154319.33,
+        -323242.37
+      ],
+      "ext2": [
+        154119.33,
+        -323242.37
+      ],
+      "text_pos": [
+        154219.33,
+        -325652.11
+      ]
+    },
+    {
+      "idx": 56,
+      "handle": "7C7107",
+      "orientation": "水平标注线",
+      "measurement_mm": 1900.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        154119.33,
+        -323242.37
+      ],
+      "ext2": [
+        152219.33,
+        -325042.37
+      ],
+      "text_pos": [
+        153169.33,
+        -325652.11
+      ]
+    },
+    {
+      "idx": 57,
+      "handle": "7C710A",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        152219.33,
+        -325042.37
+      ],
+      "ext2": [
+        152019.33,
+        -325042.37
+      ],
+      "text_pos": [
+        152119.33,
+        -325652.11
+      ]
+    },
+    {
+      "idx": 58,
+      "handle": "7C710B",
+      "orientation": "水平标注线",
+      "measurement_mm": 2200.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        152019.33,
+        -325042.37
+      ],
+      "ext2": [
+        149819.33,
+        -324942.37
+      ],
+      "text_pos": [
+        150919.33,
+        -325652.11
+      ]
+    },
+    {
+      "idx": 59,
+      "handle": "7C710E",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        149819.33,
+        -324942.37
+      ],
+      "ext2": [
+        149619.33,
+        -324942.37
+      ],
+      "text_pos": [
+        149719.33,
+        -325652.11
+      ]
+    },
+    {
+      "idx": 60,
+      "handle": "7C7111",
+      "orientation": "水平标注线",
+      "measurement_mm": 3700.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        149619.33,
+        -324942.37
+      ],
+      "ext2": [
+        145919.33,
+        -324642.37
+      ],
+      "text_pos": [
+        147769.33,
+        -325652.11
+      ]
+    },
+    {
+      "idx": 61,
+      "handle": "7C7114",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        145919.33,
+        -324642.37
+      ],
+      "ext2": [
+        145719.33,
+        -324442.37
+      ],
+      "text_pos": [
+        145819.33,
+        -325652.11
+      ]
+    },
+    {
+      "idx": 62,
+      "handle": "7C7117",
+      "orientation": "水平标注线",
+      "measurement_mm": 5150.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        145719.33,
+        -324442.37
+      ],
+      "ext2": [
+        140569.33,
+        -324642.37
+      ],
+      "text_pos": [
+        143144.33,
+        -325652.11
+      ]
+    },
+    {
+      "idx": 63,
+      "handle": "7C711A",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        138519.33,
+        -324292.37
+      ],
+      "ext2": [
+        138319.33,
+        -324292.37
+      ],
+      "text_pos": [
+        138419.33,
+        -325652.11
+      ]
+    },
+    {
+      "idx": 64,
+      "handle": "7C711D",
+      "orientation": "水平标注线",
+      "measurement_mm": 19900.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        138319.33,
+        -324292.37
+      ],
+      "ext2": [
+        158219.33,
+        -323442.37
+      ],
+      "text_pos": [
+        148269.33,
+        -326101.63
+      ]
+    },
+    {
+      "idx": 65,
+      "handle": "7C711E",
+      "orientation": "垂直标注线",
+      "measurement_mm": 200.0,
+      "rotation": 90.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        140919.33,
+        -315142.37
+      ],
+      "ext2": [
+        141119.33,
+        -315342.37
+      ],
+      "text_pos": [
+        137549.16,
+        -315242.37
+      ]
+    },
+    {
+      "idx": 66,
+      "handle": "7C711F",
+      "orientation": "垂直标注线",
+      "measurement_mm": 3350.0,
+      "rotation": 90.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        140496.77,
+        -315342.37
+      ],
+      "ext2": [
+        140015.72,
+        -318692.37
+      ],
+      "text_pos": [
+        137549.16,
+        -317017.37
+      ]
+    },
+    {
+      "idx": 67,
+      "handle": "7C7120",
+      "orientation": "垂直标注线",
+      "measurement_mm": 5850.0,
+      "rotation": 90.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        138619.33,
+        -318892.37
+      ],
+      "ext2": [
+        138619.33,
+        -324742.37
+      ],
+      "text_pos": [
+        137549.16,
+        -321817.37
+      ]
+    },
+    {
+      "idx": 68,
+      "handle": "7C7123",
+      "orientation": "垂直标注线",
+      "measurement_mm": 200.0,
+      "rotation": 90.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        138619.33,
+        -324742.37
+      ],
+      "ext2": [
+        138619.33,
+        -324942.37
+      ],
+      "text_pos": [
+        137549.16,
+        -324842.37
+      ]
+    },
+    {
+      "idx": 69,
+      "handle": "7C7126",
+      "orientation": "垂直标注线",
+      "measurement_mm": 9800.0,
+      "rotation": 90.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        138619.33,
+        -324942.37
+      ],
+      "ext2": [
+        140919.33,
+        -315142.37
+      ],
+      "text_pos": [
+        137012.59,
+        -320042.37
+      ]
+    },
+    {
+      "idx": 70,
+      "handle": "7C7190",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        201185.35,
+        -316042.37
+      ],
+      "ext2": [
+        201385.35,
+        -316042.37
+      ],
+      "text_pos": [
+        201285.35,
+        -312499.14
+      ]
+    },
+    {
+      "idx": 71,
+      "handle": "7C7193",
+      "orientation": "水平标注线",
+      "measurement_mm": 1600.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        204385.35,
+        -315942.37
+      ],
+      "ext2": [
+        205985.35,
+        -316042.37
+      ],
+      "text_pos": [
+        205185.35,
+        -312499.14
+      ]
+    },
+    {
+      "idx": 72,
+      "handle": "7C7196",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        205985.35,
+        -316042.37
+      ],
+      "ext2": [
+        206185.35,
+        -316042.37
+      ],
+      "text_pos": [
+        206085.35,
+        -312499.14
+      ]
+    },
+    {
+      "idx": 73,
+      "handle": "7C7199",
+      "orientation": "水平标注线",
+      "measurement_mm": 3700.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        206185.35,
+        -316042.37
+      ],
+      "ext2": [
+        209885.35,
+        -315142.37
+      ],
+      "text_pos": [
+        208035.35,
+        -312499.14
+      ]
+    },
+    {
+      "idx": 74,
+      "handle": "7C719C",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        209885.35,
+        -315142.37
+      ],
+      "ext2": [
+        210085.35,
+        -315142.37
+      ],
+      "text_pos": [
+        209985.35,
+        -312499.14
+      ]
+    },
+    {
+      "idx": 75,
+      "handle": "7C719D",
+      "orientation": "水平标注线",
+      "measurement_mm": 4600.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        210085.35,
+        -315142.37
+      ],
+      "ext2": [
+        214685.35,
+        -315042.37
+      ],
+      "text_pos": [
+        212385.35,
+        -312499.14
+      ]
+    },
+    {
+      "idx": 76,
+      "handle": "7C71A0",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        214685.35,
+        -315042.37
+      ],
+      "ext2": [
+        214885.35,
+        -314842.37
+      ],
+      "text_pos": [
+        214785.35,
+        -312499.14
+      ]
+    },
+    {
+      "idx": 77,
+      "handle": "7C71A3",
+      "orientation": "水平标注线",
+      "measurement_mm": 4200.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        214885.35,
+        -314842.37
+      ],
+      "ext2": [
+        219085.35,
+        -315042.37
+      ],
+      "text_pos": [
+        216985.35,
+        -312499.14
+      ]
+    },
+    {
+      "idx": 78,
+      "handle": "7C71A6",
+      "orientation": "水平标注线",
+      "measurement_mm": 17900.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        201185.35,
+        -315742.37
+      ],
+      "ext2": [
+        219085.35,
+        -315042.37
+      ],
+      "text_pos": [
+        210135.35,
+        -312066.53
+      ]
+    },
+    {
+      "idx": 79,
+      "handle": "7C71A9",
+      "orientation": "垂直标注线",
+      "measurement_mm": 900.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        205985.35,
+        -314842.37
+      ],
+      "ext2": [
+        201185.35,
+        -315742.37
+      ],
+      "text_pos": [
+        197895.98,
+        -315292.37
+      ]
+    },
+    {
+      "idx": 80,
+      "handle": "7C71AC",
+      "orientation": "垂直标注线",
+      "measurement_mm": 200.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        201185.35,
+        -315742.37
+      ],
+      "ext2": [
+        201485.35,
+        -315942.37
+      ],
+      "text_pos": [
+        197895.98,
+        -315842.37
+      ]
+    },
+    {
+      "idx": 81,
+      "handle": "7C71AF",
+      "orientation": "垂直标注线",
+      "measurement_mm": 3480.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        201485.35,
+        -315942.37
+      ],
+      "ext2": [
+        202385.35,
+        -319422.37
+      ],
+      "text_pos": [
+        197895.98,
+        -317682.37
+      ]
+    },
+    {
+      "idx": 82,
+      "handle": "7C71B2",
+      "orientation": "垂直标注线",
+      "measurement_mm": 120.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        202385.35,
+        -319422.37
+      ],
+      "ext2": [
+        202385.35,
+        -319542.37
+      ],
+      "text_pos": [
+        197895.98,
+        -319482.37
+      ]
+    },
+    {
+      "idx": 83,
+      "handle": "7C71B3",
+      "orientation": "垂直标注线",
+      "measurement_mm": 5200.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        202385.35,
+        -319542.37
+      ],
+      "ext2": [
+        202585.35,
+        -324742.37
+      ],
+      "text_pos": [
+        197895.98,
+        -322142.37
+      ]
+    },
+    {
+      "idx": 84,
+      "handle": "7C71B6",
+      "orientation": "垂直标注线",
+      "measurement_mm": 200.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        202585.35,
+        -324742.37
+      ],
+      "ext2": [
+        202585.35,
+        -324942.37
+      ],
+      "text_pos": [
+        197895.98,
+        -324842.37
+      ]
+    },
+    {
+      "idx": 85,
+      "handle": "7C71B9",
+      "orientation": "垂直标注线",
+      "measurement_mm": 10100.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        200585.35,
+        -324942.37
+      ],
+      "ext2": [
+        205985.35,
+        -314842.37
+      ],
+      "text_pos": [
+        197473.42,
+        -319892.37
+      ]
+    },
+    {
+      "idx": 86,
+      "handle": "7C71BA",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        200585.35,
+        -324942.37
+      ],
+      "ext2": [
+        200785.35,
+        -324742.37
+      ],
+      "text_pos": [
+        200685.35,
+        -325559.6
+      ]
+    },
+    {
+      "idx": 87,
+      "handle": "7C71BB",
+      "orientation": "水平标注线",
+      "measurement_mm": 3500.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        202485.35,
+        -324642.37
+      ],
+      "ext2": [
+        205985.35,
+        -324642.37
+      ],
+      "text_pos": [
+        204235.35,
+        -325559.6
+      ]
+    },
+    {
+      "idx": 88,
+      "handle": "7C71BE",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        205985.35,
+        -324642.37
+      ],
+      "ext2": [
+        206185.35,
+        -324442.37
+      ],
+      "text_pos": [
+        206085.35,
+        -325559.6
+      ]
+    },
+    {
+      "idx": 89,
+      "handle": "7C71C1",
+      "orientation": "水平标注线",
+      "measurement_mm": 3700.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        206185.35,
+        -324442.37
+      ],
+      "ext2": [
+        209885.35,
+        -324642.37
+      ],
+      "text_pos": [
+        208035.35,
+        -325559.6
+      ]
+    },
+    {
+      "idx": 90,
+      "handle": "7C71C2",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        209885.35,
+        -324642.37
+      ],
+      "ext2": [
+        210085.35,
+        -324942.37
+      ],
+      "text_pos": [
+        209985.35,
+        -325559.6
+      ]
+    },
+    {
+      "idx": 91,
+      "handle": "7C71C5",
+      "orientation": "水平标注线",
+      "measurement_mm": 1500.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        210085.35,
+        -324942.37
+      ],
+      "ext2": [
+        211585.35,
+        -325042.37
+      ],
+      "text_pos": [
+        210835.35,
+        -325559.6
+      ]
+    },
+    {
+      "idx": 92,
+      "handle": "7C71C8",
+      "orientation": "水平标注线",
+      "measurement_mm": 120.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        211585.35,
+        -325042.37
+      ],
+      "ext2": [
+        211705.35,
+        -325042.37
+      ],
+      "text_pos": [
+        211645.35,
+        -325559.6
+      ]
+    },
+    {
+      "idx": 93,
+      "handle": "7C71CB",
+      "orientation": "水平标注线",
+      "measurement_mm": 2680.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        211705.35,
+        -325042.37
+      ],
+      "ext2": [
+        214385.35,
+        -324642.37
+      ],
+      "text_pos": [
+        213045.35,
+        -325559.6
+      ]
+    },
+    {
+      "idx": 94,
+      "handle": "7C71CE",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        214385.35,
+        -324642.37
+      ],
+      "ext2": [
+        214585.35,
+        -324642.37
+      ],
+      "text_pos": [
+        214485.35,
+        -325559.6
+      ]
+    },
+    {
+      "idx": 95,
+      "handle": "7C71D1",
+      "orientation": "水平标注线",
+      "measurement_mm": 3700.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        214585.35,
+        -324642.37
+      ],
+      "ext2": [
+        218285.35,
+        -323242.37
+      ],
+      "text_pos": [
+        216435.35,
+        -325559.6
+      ]
+    },
+    {
+      "idx": 96,
+      "handle": "7C71D4",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        218285.35,
+        -323242.37
+      ],
+      "ext2": [
+        218485.35,
+        -323442.37
+      ],
+      "text_pos": [
+        218385.35,
+        -325559.6
+      ]
+    },
+    {
+      "idx": 97,
+      "handle": "7C71D7",
+      "orientation": "水平标注线",
+      "measurement_mm": 17900.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        218485.35,
+        -323442.37
+      ],
+      "ext2": [
+        200585.35,
+        -324942.37
+      ],
+      "text_pos": [
+        209535.35,
+        -326033.83
+      ]
+    },
+    {
+      "idx": 98,
+      "handle": "7C71D8",
+      "orientation": "垂直标注线",
+      "measurement_mm": 1865.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        213185.35,
+        -312977.37
+      ],
+      "ext2": [
+        214885.35,
+        -314842.37
+      ],
+      "text_pos": [
+        220548.75,
+        -313909.87
+      ]
+    },
+    {
+      "idx": 99,
+      "handle": "7C71DB",
+      "orientation": "垂直标注线",
+      "measurement_mm": 200.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        214885.35,
+        -314842.37
+      ],
+      "ext2": [
+        214685.35,
+        -315042.37
+      ],
+      "text_pos": [
+        220548.75,
+        -314942.37
+      ]
+    },
+    {
+      "idx": 100,
+      "handle": "7C71DC",
+      "orientation": "垂直标注线",
+      "measurement_mm": 4300.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        214685.35,
+        -315042.37
+      ],
+      "ext2": [
+        213085.35,
+        -319342.37
+      ],
+      "text_pos": [
+        220548.75,
+        -317192.37
+      ]
+    },
+    {
+      "idx": 101,
+      "handle": "7C71DD",
+      "orientation": "垂直标注线",
+      "measurement_mm": 3700.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        214585.35,
+        -319542.37
+      ],
+      "ext2": [
+        218285.35,
+        -323242.37
+      ],
+      "text_pos": [
+        220548.75,
+        -321392.37
+      ]
+    },
+    {
+      "idx": 102,
+      "handle": "7C71E0",
+      "orientation": "垂直标注线",
+      "measurement_mm": 200.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        218285.35,
+        -323242.37
+      ],
+      "ext2": [
+        218485.35,
+        -323442.37
+      ],
+      "text_pos": [
+        220548.75,
+        -323342.37
+      ]
+    },
+    {
+      "idx": 103,
+      "handle": "7C71E1",
+      "orientation": "垂直标注线",
+      "measurement_mm": 1800.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        218485.35,
+        -323442.37
+      ],
+      "ext2": [
+        214585.35,
+        -325242.37
+      ],
+      "text_pos": [
+        220548.75,
+        -324342.37
+      ]
+    },
+    {
+      "idx": 104,
+      "handle": "7C71E4",
+      "orientation": "垂直标注线",
+      "measurement_mm": 200.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        214385.35,
+        -319342.37
+      ],
+      "ext2": [
+        214585.35,
+        -319542.37
+      ],
+      "text_pos": [
+        220548.75,
+        -319442.37
+      ]
+    },
+    {
+      "idx": 105,
+      "handle": "7C71E7",
+      "orientation": "垂直标注线",
+      "measurement_mm": 10400.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        214885.35,
+        -314842.37
+      ],
+      "ext2": [
+        214585.35,
+        -325242.37
+      ],
+      "text_pos": [
+        221017.59,
+        -320042.37
+      ]
+    },
+    {
+      "idx": 106,
+      "handle": "7C7205",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        140519.33,
+        -324122.37
+      ],
+      "ext2": [
+        140319.33,
+        -324142.37
+      ],
+      "text_pos": [
+        140419.33,
+        -326202.11
+      ]
+    },
+    {
+      "idx": 107,
+      "handle": "7C7208",
+      "orientation": "水平标注线",
+      "measurement_mm": 1800.0,
+      "rotation": 0.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        140319.33,
+        -324142.37
+      ],
+      "ext2": [
+        138519.33,
+        -324642.37
+      ],
+      "text_pos": [
+        139419.33,
+        -325652.11
+      ]
+    },
+    {
+      "idx": 108,
+      "handle": "7C7222",
+      "orientation": "水平标注线",
+      "measurement_mm": 200.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        204385.35,
+        -315942.37
+      ],
+      "ext2": [
+        204185.35,
+        -315942.37
+      ],
+      "text_pos": [
+        204285.35,
+        -312499.14
+      ]
+    },
+    {
+      "idx": 109,
+      "handle": "7C722D",
+      "orientation": "垂直标注线",
+      "measurement_mm": 200.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        188914.2,
+        -316477.37
+      ],
+      "ext2": [
+        189126.65,
+        -316277.37
+      ],
+      "text_pos": [
+        189461.03,
+        -316377.37
+      ]
+    },
+    {
+      "idx": 110,
+      "handle": "7C722E",
+      "orientation": "垂直标注线",
+      "measurement_mm": 3100.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        189126.65,
+        -316277.37
+      ],
+      "ext2": [
+        187726.65,
+        -313177.37
+      ],
+      "text_pos": [
+        189461.03,
+        -314727.37
+      ]
+    },
+    {
+      "idx": 111,
+      "handle": "7C72A5",
+      "orientation": "水平标注线",
+      "measurement_mm": 2800.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        201385.35,
+        -316042.37
+      ],
+      "ext2": [
+        204185.35,
+        -315942.37
+      ],
+      "text_pos": [
+        202785.35,
+        -312499.14
+      ]
+    },
+    {
+      "idx": 112,
+      "handle": "7C72CE",
+      "orientation": "垂直标注线",
+      "measurement_mm": 200.0,
+      "rotation": 90.0,
+      "style": "HG-80",
+      "layer": "A-DIMS",
+      "ext1": [
+        138919.33,
+        -318692.37
+      ],
+      "ext2": [
+        138919.33,
+        -318892.37
+      ],
+      "text_pos": [
+        137549.16,
+        -318792.37
+      ]
+    },
+    {
+      "idx": 113,
+      "handle": "7C7315",
+      "orientation": "垂直标注线",
+      "measurement_mm": 2865.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        188926.65,
+        -316477.37
+      ],
+      "ext2": [
+        188926.65,
+        -319342.37
+      ],
+      "text_pos": [
+        189461.03,
+        -317909.87
+      ]
+    },
+    {
+      "idx": 114,
+      "handle": "7C7318",
+      "orientation": "垂直标注线",
+      "measurement_mm": 200.0,
+      "rotation": 90.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        188926.65,
+        -319342.37
+      ],
+      "ext2": [
+        189126.65,
+        -319542.37
+      ],
+      "text_pos": [
+        189461.03,
+        -319442.37
+      ]
+    },
+    {
+      "idx": 115,
+      "handle": "7C738E",
+      "orientation": "水平标注线",
+      "measurement_mm": 300.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        202485.35,
+        -324642.37
+      ],
+      "ext2": [
+        202185.35,
+        -324642.37
+      ],
+      "text_pos": [
+        202335.35,
+        -325559.6
+      ]
+    },
+    {
+      "idx": 116,
+      "handle": "7C738F",
+      "orientation": "水平标注线",
+      "measurement_mm": 1400.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        202185.35,
+        -324642.37
+      ],
+      "ext2": [
+        200785.35,
+        -324742.37
+      ],
+      "text_pos": [
+        201485.35,
+        -325559.6
+      ]
+    },
+    {
+      "idx": 117,
+      "handle": "7C73DB",
+      "orientation": "水平标注线",
+      "measurement_mm": 120.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        180726.65,
+        -325042.37
+      ],
+      "ext2": [
+        180846.65,
+        -325042.37
+      ],
+      "text_pos": [
+        180786.65,
+        -325545.85
+      ]
+    },
+    {
+      "idx": 118,
+      "handle": "7C73DC",
+      "orientation": "水平标注线",
+      "measurement_mm": 2480.0,
+      "rotation": 0.0,
+      "style": "HG-70",
+      "layer": "A-DIMS",
+      "ext1": [
+        180846.65,
+        -325042.37
+      ],
+      "ext2": [
+        183326.65,
+        -324942.37
+      ],
+      "text_pos": [
+        182086.65,
+        -325545.85
+      ]
+    }
+  ]
+}

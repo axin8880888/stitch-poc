@@ -1,0 +1,131 @@
+=================================================================
+  课题007 — MTEXT 文字解析报告
+  文件: /storage/emulated/0/设计/DXF学习/晴碧园晶园26栋.dxf
+=================================================================
+
+  1. 概况
+  --------------------------------------------------
+    MTEXT 总数: 104
+    图层分布:
+      W-文字                     : 101
+      A-新隔墙                    : 2
+      P-固定家具（落地、到顶）            : 1
+    样式: 建筑(104)
+
+  2. 内容分类
+  --------------------------------------------------
+    短文本         : 67
+    说明文字        : 20
+    房间名         : 16
+    标高          : 1
+
+  3. 全部文字明细
+  --------------------------------------------------
+    #1: 淋浴                                   | h=140 | style=建筑     | layer=W-文字
+    #2: 餐厅                                   | h=140 | style=建筑     | layer=W-文字
+    #3: 卫生间                                  | h=140 | style=建筑     | layer=W-文字
+    #4: 卧室                                   | h=140 | style=建筑     | layer=W-文字
+    #5: 休闲区                                  | h=140 | style=建筑     | layer=W-文字
+    #6: 储藏间                                  | h=140 | style=建筑     | layer=W-文字
+    #7: 早餐区                                  | h=140 | style=建筑     | layer=W-文字
+    #8: 上17步                                 | h=140 | style=建筑     | layer=W-文字
+    #9: 棋牌桌                                  | h=100 | style=建筑     | layer=W-文字
+    #10: 岛台                                   | h=100 | style=建筑     | layer=W-文字
+    #11: 挑空                                   | h=140 | style=建筑     | layer=W-文字
+    #12: TV                                   | h=100 | style=建筑     | layer=W-文字
+    #13: 淋浴                                   | h=100 | style=建筑     | layer=W-文字
+    #14: 卧室一（主卧）                              | h=140 | style=建筑     | layer=W-文字
+    #15: 上21步                                 | h=140 | style=建筑     | layer=W-文字
+    #16: 下17步                                 | h=140 | style=建筑     | layer=W-文字
+    #17: 淋浴                                   | h=100 | style=建筑     | layer=W-文字
+    #18: 卫生间                                  | h=140 | style=建筑     | layer=W-文字
+    #19: 卫生间                                  | h=140 | style=建筑     | layer=W-文字
+    #20: 衣帽间                                  | h=140 | style=建筑     | layer=W-文字
+    #21: 淋浴                                   | h=100 | style=建筑     | layer=W-文字
+    #22: 景观阳台                                 | h=140 | style=建筑     | layer=W-文字
+    #23: 洗衣房                                  | h=140 | style=建筑     | layer=W-文字
+    #24: 阳台                                   | h=140 | style=建筑     | layer=W-文字
+    #25: 下3步                                  | h=140 | style=建筑     | layer=W-文字
+    #26: 下3步                                  | h=140 | style=建筑     | layer=W-文字
+    #27: 洗衣机                                  | h=100 | style=建筑     | layer=W-文字
+    #28: 烘干机                                  | h=100 | style=建筑     | layer=W-文字
+    #29: 洗衣机                                  | h=100 | style=建筑     | layer=W-文字
+    #30: 客厅                                   | h=140 | style=建筑     | layer=W-文字
+    #31: 院子                                   | h=100 | style=建筑     | layer=W-文字
+    #32: 手工桌                                  | h=100 | style=建筑     | layer=W-文字
+    #33: 钢琴                                   | h=100 | style=建筑     | layer=W-文字
+    #34: 瑜伽垫                                  | h=100 | style=建筑     | layer=W-文字
+    #35: 衣柜                                   | h=100 | style=建筑     | layer=W-文字
+    #36: 衣帽间                                  | h=140 | style=建筑     | layer=W-文字
+    #37: 淋浴                                   | h=100 | style=建筑     | layer=W-文字
+    #38: 卧室三                                  | h=140 | style=建筑     | layer=W-文字
+    #39: 厨房                                   | h=140 | style=建筑     | layer=W-文字
+    #40: 院子                                   | h=140 | style=建筑     | layer=W-文字
+    #41: 冰箱                                   | h=100 | style=建筑     | layer=W-文字
+    #42: 冰箱                                   | h=100 | style=建筑     | layer=W-文字
+    #43: 高柜\P微波炉                              | h=100 | style=建筑     | layer=W-文字
+    #44: 玄关                                   | h=140 | style=建筑     | layer=W-文字
+    #45: 门厅                                   | h=140 | style=建筑     | layer=W-文字
+    #46: 壁挂空调                                 | h=100 | style=建筑     | layer=W-文字
+    #47: 暗门                                   | h=100 | style=建筑     | layer=W-文字
+    #48: 露台                                   | h=140 | style=建筑     | layer=W-文字
+    #49: 晾衣架                                  | h=100 | style=建筑     | layer=W-文字
+    #50: 电动伸缩遮阳棚                              | h=100 | style=建筑     | layer=W-文字
+    #51: 移门                                   | h=100 | style=建筑     | layer=W-文字
+    #52: 露台                                   | h=140 | style=建筑     | layer=W-文字
+    #53: 车库                                   | h=140 | style=建筑     | layer=W-文字
+    #54: 衣帽间                                  | h=140 | style=建筑     | layer=W-文字
+    #55: 鞋柜                                   | h=100 | style=建筑     | layer=W-文字
+    #56: 壁龛                                   | h=100 | style=建筑     | layer=W-文字
+    #57: 壁龛                                   | h=100 | style=建筑     | layer=W-文字
+    #58: 壁龛                                   | h=100 | style=建筑     | layer=W-文字
+    #59: 休闲区                                  | h=140 | style=建筑     | layer=W-文字
+    #60: 设备间                                  | h=100 | style=建筑     | layer=W-文字
+    #61: 墙面投影                                 | h=100 | style=建筑     | layer=W-文字
+    #62: 顶面铜管挂绿植                              | h=100 | style=建筑     | layer=W-文字
+    #63: 车位                                   | h=140 | style=建筑     | layer=W-文字
+    #64: 可开启窗                                 | h=100 | style=建筑     | layer=W-文字
+    #65: 弱电机柜                                 | h=100 | style=建筑     | layer=W-文字
+    #66: 强电箱                                  | h=60 | style=建筑     | layer=A-新隔墙
+    #67: 强电箱                                  | h=60 | style=建筑     | layer=P-固定家具（落地、到顶）
+    #68: 强电箱                                  | h=60 | style=建筑     | layer=A-新隔墙
+    #69: 暗门                                   | h=100 | style=建筑     | layer=W-文字
+    #70: 暗门                                   | h=100 | style=建筑     | layer=W-文字
+    #71: 硬化地面                                 | h=100 | style=建筑     | layer=W-文字
+    #72: 玻璃砖隔墙                                | h=100 | style=建筑     | layer=W-文字
+    #73: 洞洞板                                  | h=100 | style=建筑     | layer=W-文字
+    #74: 玻璃砖隔墙                                | h=100 | style=建筑     | layer=W-文字
+    #75: 大门中心线                                | h=100 | style=建筑     | layer=W-文字
+    #76: 坡度                                   | h=100 | style=建筑     | layer=W-文字
+    #77: 玻璃砖隔墙                                | h=100 | style=建筑     | layer=W-文字
+    #78: 电视机中心线                               | h=100 | style=建筑     | layer=W-文字
+    #79: 书桌                                   | h=100 | style=建筑     | layer=W-文字
+    #80: 门洞                                   | h=140 | style=建筑     | layer=W-文字
+    #81: 小水池                                  | h=100 | style=建筑     | layer=W-文字
+    #82: 洗碗机                                  | h=100 | style=建筑     | layer=W-文字
+    #83: 电梯厅                                  | h=140 | style=建筑     | layer=W-文字
+    #84: 电梯厅                                  | h=140 | style=建筑     | layer=W-文字
+    #85: 水池                                   | h=100 | style=建筑     | layer=W-文字
+    #86: 暗门                                   | h=100 | style=建筑     | layer=W-文字
+    #87: 餐边柜                                  | h=100 | style=建筑     | layer=W-文字
+    #88: 内嵌电磁炉                                | h=100 | style=建筑     | layer=W-文字
+    #89: 空气炸锅\P电饭锅                            | h=100 | style=建筑     | layer=W-文字
+    #90: 预留水源\P预留充电桩                          | h=100 | style=建筑     | layer=W-文字
+    #91: 咖啡机\P破壁机                             | h=100 | style=建筑     | layer=W-文字
+    #92: 电热毛巾架                                | h=100 | style=建筑     | layer=W-文字
+    #93: 电热毛巾架                                | h=100 | style=建筑     | layer=W-文字
+    #94: 电热毛巾架                                | h=100 | style=建筑     | layer=W-文字
+    #95: 壁挂电动伸缩水管                             | h=100 | style=建筑     | layer=W-文字
+    #96: 书桌                                   | h=100 | style=建筑     | layer=W-文字
+    #97: 书桌                                   | h=100 | style=建筑     | layer=W-文字
+    #98: 书桌                                   | h=100 | style=建筑     | layer=W-文字
+    #99: 电热毛巾架                                | h=100 | style=建筑     | layer=W-文字
+    #100: 留声机                                  | h=100 | style=建筑     | layer=W-文字
+    #101: 扫地机器人                                | h=100 | style=建筑     | layer=W-文字
+    #102: 除湿机                                  | h=100 | style=建筑     | layer=W-文字
+    #103: 电梯（井道净宽1.6米，净深1.58米）                 | h=140 | style=建筑     | layer=W-文字
+    #104: 电梯（井道净宽1.6米，净深1.58米）                 | h=140 | style=建筑     | layer=W-文字
+
+=================================================================
+  报告结束
+=================================================================
