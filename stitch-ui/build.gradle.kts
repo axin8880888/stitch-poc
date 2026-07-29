@@ -20,4 +20,5 @@ android {
 
 dependencies {
     implementation(project(":stitch-core"))
+    implementation("androidx.core:core-ktx:1.12.0")
 }

@@ -1,15 +1,24 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.teleboost.camera">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.teleboost.camera">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera" android:required="true" />
     <application
         android:label="@string/app_name"
         android:theme="@style/Theme.OpenCVStitchPOC">
         <activity
-            android:name="com.teleboost.camera.stitch.StitchEntryActivity"
-            android:exported="true">
+            android:name="com.teleboost.camera.RawTestActivity"
+            android:exported="true"
+            android:label="RAW→JPG 测试">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.teleboost.camera.stitch.StitchEntryActivity"
+            android:exported="true"/>
         <activity
             android:name="com.teleboost.camera.stitch.ui.StitchCameraScreen"
             android:exported="false"
